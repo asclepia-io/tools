@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      Blood Test Formatter - Simplification des résultats de prise de sang
+    </title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="navbar-container">
+        <a href="../../index.html" class="navbar-brand">
+          <span class="brand-icon">🧪</span>
+          <span class="brand-text">Ascelpia Tools</span>
+        </a>
+        <ul class="navbar-menu">
+          <li>
+            <a href="../../index.html" class="navbar-link">Accueil</a>
+          </li>
+          <li>
+            <a href="index.html" class="navbar-link active"
+              >Better Labs Results</a
+            >
+          </li>
+          <li>
+            <a href="../../csv-cleaner/web/index.html" class="navbar-link">CSV Cleaner</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="container">
+      <header>
+        <div class="header-content">
+          <h1>Blood Test Formatter</h1>
+        </div>
+      </header>
+
+      <div class="options">
+        <label class="checkbox-label">
+          <input type="checkbox" id="includeAll" checked />
+          Inclure toutes les valeurs disponibles
+        </label>
+
+        <label class="select-label">
+          Format :
+          <select id="formatSelect">
+            <option value="standard">Standard</option>
+            <option value="detailed">Détaillé</option>
+            <option value="compact">Compact</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="main-content">
+        <div class="input-section">
+          <div class="section-header">
+            <h2>Résultats bruts (copier-coller)</h2>
+            <button class="btn-secondary" id="clearBtn">Effacer</button>
+          </div>
+          <textarea
+            id="inputText"
+            placeholder="Collez ici vos résultats de prise de sang au format brut...
+
+Exemple:
+_______________________________________________________________________________________
+ 872600227994                ¦01/02/26                                    ¦Valeurs de
+Analyse             ¦Unité   ¦05:30                                       ¦réf.
+_______________________________________________________________________________________
+HEMATOLOGIE - CYTOLOGIE
+Numération
+Leucocytes          ¦x10*9/L ¦8.37                                        ¦4-10
+Hémoglobine         ¦g/dL    ¦12.6                                        ¦12-16
+..."
+          ></textarea>
+        </div>
+
+        <div class="output-section">
+          <div class="section-header">
+            <h2>Résultats simplifiés</h2>
+            <button class="btn-primary" id="copyBtn">📋 Copier</button>
+          </div>
+          <div id="outputText" class="output-display">
+            <p class="placeholder">
+              Les résultats formatés apparaîtront ici...
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <footer>
+        <p>
+          <a href="#" id="showRulesBtn">Voir les règles de formatage</a>
+        </p>
+      </footer>
+    </div>
+
+    <!-- Modal pour afficher les règles -->
+    <div id="rulesModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2>Règles de formatage actives</h2>
+        <div id="rulesContent"></div>
+      </div>
+    </div>
+
+    <script src="parser.js"></script>
+    <script src="rules.js"></script>
+    <script src="formatter.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
+

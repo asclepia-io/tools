@@ -1,0 +1,14 @@
+{
+  "name": "blood-test-formatter",
+  "version": "1.0.0",
+  "description": "Transforme des résultats de prise de sang en texte formaté",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/index.js tests/test-data/sample-input.txt"
+  },
+  "keywords": ["blood-test", "medical", "formatter"],
+  "author": "",
+  "license": "MIT"
+}

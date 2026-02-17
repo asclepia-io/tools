@@ -1,0 +1,82 @@
+_______________________________________________________________________________________
+ 872600223816                ¦31/01/26                                    ¦Valeurs de  
+Analyse             ¦Unité   ¦01:20                                       ¦réf.        
+                    ¦        ¦Complet                                     ¦            
+_______________________________________________________________________________________
+BIOCHIMIE
+Renseignements
+Rajout du prescri…¹ ¦        ¦ldh-ast                                     ¦            
+¹ Rajout du prescripteur
+Indices plasmatiques
+Hémolyse indice     ¦        ¦Non hémolysé.                               ¦            
+Ictère indice       ¦        ¦Non ictérique.                              ¦            
+Lipémie indice      ¦        ¦Clair                                       ¦            
+Examens sanguins
+Sodium              ¦mmol/L  ¦139                                         ¦136-144     
+Potassium           ¦mmol/L  ¦3.3                                       - ¦3.5-4.5     
+Chlorure            ¦mmol/L  ¦108                                       + ¦95-105      
+Bicarbonate         ¦mmol/L  ¦22.4                                      - ¦23.0-31.0   
+Trou anionique      ¦mmol/L  ¦11.9                                        ¦7.0-17.0    
+Protéines           ¦g/L     ¦72                                          ¦60-84       
+Urée                ¦mmol/L  ¦8.8                                       + ¦3-7         
+Créatinine          ¦µmol/L  ¦83                                        + ¦45-80       
+DFG calculé par MDRD¦mL/min/…¦60                                          ¦            
+DFG calculé par C…² ¦mL/min/…¦63.6                                        ¦            
+CRP                 ¦mg/L    ¦<4                                          ¦<5          
+Lipase              ¦U/L     ¦76                                        + ¦4-46        
+ASAT                ¦U/L     ¦26                                          ¦<32         
+ALAT                ¦U/L     ¦14                                          ¦<32         
+Gamma GT            ¦U/L     ¦40                                        + ¦<32         
+Phosphatases alca…³ ¦U/L     ¦62                                          ¦<115        
+LDH                 ¦U/L     ¦392                                       + ¦125-250     
+Créatine kinase     ¦U/L     ¦77                                          ¦<160        
+² DFG calculé par CKD-EPI
+³ Phosphatases alcalines
+COMPTE-RENDU BIOCHIMIE
+CR - Pdf
+CR Biochimie        ¦        ¦PDF                                         ¦            
+VALIDATION BIOLOGIQUE
+-
+Identité biologiste ¦        ¦                                            ¦            
+_______________________________________________________________________________________
+ 872600223811                ¦31/01/26                                    ¦Valeurs de  
+Analyse             ¦Unité   ¦01:20                                       ¦réf.        
+                    ¦        ¦Complet                                     ¦            
+_______________________________________________________________________________________
+HEMATOLOGIE - CYTOLOGIE
+Numération
+Leucocytes          ¦x10*9/L ¦8.39                                        ¦4-10        
+Hématies            ¦x10*12/L¦1.97                                      - ¦4-5.2       
+Hémoglobine         ¦g/dL    ¦7.5                                       - ¦12-16       
+Hématocrite         ¦%       ¦19.9                                      - ¦35-47       
+VGM                 ¦fL      ¦101.0                                     + ¦80-100      
+TCMH                ¦pg      ¦38.1                                      + ¦27-32       
+CCMH                ¦g/dL    ¦37.7                                      + ¦32-36.5     
+IDR                 ¦%       ¦15                                          ¦10-16       
+Réticulocytes       ¦%       ¦5.97                                        ¦            
+Réticulocytes       ¦x10*9/L ¦117.6                                     + ¦25-100      
+Plaquettes          ¦x10*9/L ¦304                                         ¦150-400     
+VMP                 ¦fL      ¦10.0                                        ¦8-11        
+IDP                 ¦%       ¦9.5                                         ¦            
+Formule Sanguine
+Polynucléaires ne…¹ ¦%       ¦51.2                                        ¦            
+Polynucléaires ne…¹ ¦x10*9/L ¦4.29                                        ¦1.5-7       
+Polynucléaires éo…² ¦%       ¦2.1                                         ¦            
+Polynucléaires éo…² ¦x10*9/L ¦0.18                                        ¦0-0.5       
+Polynucléaires ba…³ ¦%       ¦0.8                                         ¦            
+Polynucléaires ba…³ ¦x10*9/L ¦0.07                                        ¦0-0.2       
+Lymphocytes         ¦%       ¦33.6                                        ¦            
+Lymphocytes         ¦x10*9/L ¦2.82                                        ¦1.5-4       
+Monocytes           ¦%       ¦12.3                                        ¦            
+Monocytes           ¦x10*9/L ¦1.03                                      + ¦0.2-1       
+Granuleux immatures ¦%       ¦1.9                                         ¦<2          
+Erythroblastes      ¦%       ¦1.5                                       + ¦<1          
+¹ Polynucléaires neutrophiles
+² Polynucléaires éosinophiles
+³ Polynucléaires basophiles
+COMPTE-RENDU BIOCHIMIE
+CR - Pdf
+CR Biochimie        ¦        ¦PDF                                         ¦            
+VALIDATION BIOLOGIQUE
+-
+Identité biologiste ¦        ¦                                            ¦            

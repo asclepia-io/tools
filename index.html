@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ascelpia Tools - Suite d'outils</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+        padding: 0;
+        color: #333;
+      }
+
+      .page-wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: calc(100vh - 60px);
+        padding: 20px;
+      }
+
+      .navbar {
+        background: rgba(255, 255, 255, 0.98);
+        backdrop-filter: blur(10px);
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        position: sticky;
+        top: 0;
+        z-index: 100;
+      }
+
+      .navbar-container {
+        max-width: 1400px;
+        margin: 0 auto;
+        padding: 15px 40px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .navbar-brand {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: 20px;
+        font-weight: 600;
+        color: #333;
+        text-decoration: none;
+        transition: opacity 0.2s ease;
+      }
+
+      .navbar-brand:hover {
+        opacity: 0.7;
+      }
+
+      .navbar-icon {
+        font-size: 24px;
+      }
+
+      .navbar-menu {
+        display: flex;
+        list-style: none;
+        gap: 5px;
+        margin: 0;
+        padding: 0;
+      }
+
+      .navbar-link {
+        padding: 10px 20px;
+        text-decoration: none;
+        color: #6c757d;
+        font-weight: 500;
+        font-size: 14px;
+        border-radius: 8px;
+        transition: all 0.2s ease;
+        display: block;
+      }
+
+      .navbar-link:hover {
+        background: #f8f9fa;
+        color: #667eea;
+      }
+
+      .navbar-link.active {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+      }
+
+      .container {
+        max-width: 800px;
+        width: 100%;
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        overflow: hidden;
+      }
+
+      header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 40px;
+        text-align: center;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 15px;
+        font-size: 32px;
+        font-weight: 600;
+        margin-bottom: 10px;
+      }
+
+      .brand-icon {
+        font-size: 48px;
+      }
+
+      .subtitle {
+        font-size: 16px;
+        opacity: 0.9;
+      }
+
+      .tools-grid {
+        padding: 40px;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 30px;
+      }
+
+      .tool-card {
+        background: white;
+        border: 2px solid #e9ecef;
+        border-radius: 12px;
+        padding: 30px;
+        text-decoration: none;
+        color: inherit;
+        transition: all 0.3s ease;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+
+      .tool-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+        border-color: #667eea;
+      }
+
+      .tool-icon {
+        font-size: 64px;
+        margin-bottom: 20px;
+      }
+
+      .tool-title {
+        font-size: 24px;
+        font-weight: 600;
+        color: #333;
+        margin-bottom: 10px;
+      }
+
+      .tool-description {
+        font-size: 14px;
+        color: #6c757d;
+        line-height: 1.6;
+      }
+
+      footer {
+        padding: 20px 40px;
+        background: #f8f9fa;
+        border-top: 1px solid #e9ecef;
+        text-align: center;
+        font-size: 14px;
+        color: #6c757d;
+      }
+
+      @media (max-width: 768px) {
+        .tools-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .brand {
+          font-size: 24px;
+        }
+
+        .brand-icon {
+          font-size: 36px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="navbar-container">
+        <a href="index.html" class="navbar-brand">
+          <span class="navbar-icon">🧪</span>
+          <span class="brand-text">Ascelpia Tools</span>
+        </a>
+        <ul class="navbar-menu">
+          <li><a href="index.html" class="navbar-link active">Accueil</a></li>
+          <li><a href="blood-test-formatter/web/index.html" class="navbar-link">Better Labs Results</a></li>
+          <li><a href="csv-cleaner/web/index.html" class="navbar-link">CSV Cleaner</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="page-wrapper">
+      <div class="container">
+      <header>
+        <div class="brand">
+          <span class="brand-icon">🧪</span>
+          <span>Ascelpia Tools</span>
+        </div>
+        <p class="subtitle">Suite d'outils pour optimiser votre workflow</p>
+      </header>
+
+      <div class="tools-grid">
+        <a href="blood-test-formatter/web/index.html" class="tool-card">
+          <div class="tool-icon">🩸</div>
+          <h2 class="tool-title">Better Labs Results</h2>
+          <p class="tool-description">
+            Transformez vos résultats de prise de sang bruts en texte formaté et lisible.
+            Supprime les colonnes inutiles et organise les données.
+          </p>
+        </a>
+
+        <a href="csv-cleaner/web/index.html" class="tool-card">
+          <div class="tool-icon">📊</div>
+          <h2 class="tool-title">CSV Cleaner</h2>
+          <p class="tool-description">
+            Nettoyage automatique de fichiers CSV. Détection automatique du type (Sources, Tiroirs, Questions)
+            et application des règles de transformation.
+          </p>
+        </a>
+      </div>
+
+      <footer>
+        <p>Ascelpia Tools © 2026 - Suite d'outils développée pour faciliter le traitement de données</p>
+      </footer>
+    </div>
+    </div>
+  </body>
+</html>

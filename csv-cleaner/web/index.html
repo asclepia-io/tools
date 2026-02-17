@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSV Cleaner - Nettoyage automatique de fichiers CSV</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="navbar-container">
+        <a href="../../index.html" class="navbar-brand">
+          <span class="brand-icon">🧪</span>
+          <span class="brand-text">Ascelpia Tools</span>
+        </a>
+        <ul class="navbar-menu">
+          <li>
+            <a href="../../index.html" class="navbar-link">Accueil</a>
+          </li>
+          <li>
+            <a
+              href="../../blood-test-formatter/web/index.html"
+              class="navbar-link"
+              >Better Labs Results</a
+            >
+          </li>
+          <li>
+            <a href="index.html" class="navbar-link active">CSV Cleaner</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="container">
+      <header>
+        <div class="header-content">
+          <h1>CSV Cleaner</h1>
+        </div>
+      </header>
+
+      <div class="main-content">
+        <div class="input-section">
+          <div class="section-header">
+            <h2>Fichier CSV à nettoyer</h2>
+            <button class="btn-secondary" id="clearBtn">Effacer</button>
+          </div>
+          <div class="upload-zone" id="uploadZone">
+            <input type="file" id="fileInput" accept=".csv" />
+            <div class="upload-prompt">
+              <span class="upload-icon">📁</span>
+              <p>Glissez-déposez votre fichier CSV ici</p>
+              <p class="upload-subtext">ou cliquez pour sélectionner</p>
+            </div>
+          </div>
+          <div id="fileInfo" class="file-info"></div>
+          <div id="typeDetected" class="type-detected"></div>
+        </div>
+
+        <div class="output-section">
+          <div class="section-header">
+            <h2>Résultat nettoyé</h2>
+            <button class="btn-primary" id="downloadBtn" disabled>
+              📥 Télécharger
+            </button>
+          </div>
+          <div id="outputText" class="output-display">
+            <p class="placeholder">Le fichier nettoyé apparaîtra ici...</p>
+          </div>
+          <div id="stats" class="stats"></div>
+        </div>
+      </div>
+      <div class="info-section">
+        <div class="info-box">
+          <h3>Types de fichiers supportés</h3>
+          <ul>
+            <li><strong>Sources</strong> - Détecté automatiquement</li>
+            <li><strong>Tiroirs</strong> - Détecté automatiquement</li>
+            <li><strong>Questions</strong> - Détecté automatiquement</li>
+          </ul>
+        </div>
+        <div class="info-box">
+          <h3>Transformations appliquées</h3>
+          <ul>
+            <li>Suppression des colonnes inutiles</li>
+            <li>Remplacement des virgules par des points-virgules</li>
+            <li>Suppression des URLs entre parenthèses</li>
+            <li>Nettoyage des valeurs (1.0 → 1, 2.0 → 2, 0.0 → 0)</li>
+          </ul>
+        </div>
+      </div>
+      <footer>
+        <p>
+          CSV Cleaner - Outil de nettoyage automatique pour les fichiers
+          Sources, Tiroirs et Questions
+        </p>
+      </footer>
+    </div>
+
+    <script src="cleaner.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

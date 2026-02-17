@@ -1,0 +1,21 @@
+08/02/2026
+
+Leucocytes 5.78 G/L
+PNN 2.93 G/L
+Lymphocytes 1.93 G/L
+PEo 0.08 G/L
+
+Hb 12.7 g/dL
+VGM 94.8 fL
+Hématocrite 37.9%
+
+Plaquettes 412 G/L
+
+Na 141 mmol/L
+K 4.3 mmol/L
+Bicarbonate 28.9 mmol/L
+Urée 2.6 mmol/L
+Créatinine 45 µmol/L
+DFG 114.2 mL/min/1.73m² (CKD-EPI)
+
+Protéines 66 g/L

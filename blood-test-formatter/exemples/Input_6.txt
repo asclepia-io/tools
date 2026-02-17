@@ -1,0 +1,94 @@
+_______________________________________________________________________________________
+ 872600243530                ¦03/02/26                                    ¦Valeurs de  
+Analyse             ¦Unité   ¦09:50                                       ¦réf.        
+                    ¦        ¦Complet                                     ¦            
+_______________________________________________________________________________________
+GAZ DU SANG
+Renseignements
+Débit O2            ¦L/min   ¦9                                           ¦            
+Sang artériel
+pH                  ¦        ¦7.41                                        ¦7.35-7.45   
+pCO2                ¦mm Hg   ¦41                                          ¦35-45       
+pO2                 ¦mm Hg   ¦73                                        - ¦>80         
+CO2 total           ¦mmol/L  ¦27.3                                        ¦            
+SatO2               ¦%       ¦98.4                                        ¦95-99       
+Excès de base       ¦mmol/L  ¦1.2                                         ¦-2.0-2.0    
+Lactate             ¦mmol/L  ¦1.5                                         ¦            
+COMPTE-RENDU BIOCHIMIE
+CR - Pdf
+CR Biochimie        ¦        ¦PDF                                         ¦            
+_______________________________________________________________________________________
+ 872600240660                ¦03/02/26                                    ¦Valeurs de  
+Analyse             ¦Unité   ¦06:30                                       ¦réf.        
+                    ¦        ¦Complet                                     ¦            
+_______________________________________________________________________________________
+BIOCHIMIE
+Indices plasmatiques
+Hémolyse indice     ¦        ¦Non hémolysé.                               ¦            
+Ictère indice       ¦        ¦Non ictérique.                              ¦            
+Lipémie indice      ¦        ¦Clair                                       ¦            
+Examens sanguins
+Sodium              ¦mmol/L  ¦147                                       + ¦136-144     
+Potassium           ¦mmol/L  ¦4.2                                         ¦3.5-4.5     
+Chlorure            ¦mmol/L  ¦111                                       + ¦95-105      
+Bicarbonate         ¦mmol/L  ¦25.0                                        ¦23.0-31.0   
+Trou anionique      ¦mmol/L  ¦15.2                                        ¦7.0-17.0    
+Protéines           ¦g/L     ¦61                                          ¦60-84       
+Urée                ¦mmol/L  ¦8.0                                       + ¦3-7         
+Créatinine          ¦µmol/L  ¦121                                       + ¦45-97       
+DFG calculé par MDRD¦mL/min/…¦50                                          ¦            
+DFG calculé par C…¹ ¦mL/min/…¦47.4                                        ¦            
+CRP                 ¦mg/L    ¦220                                       + ¦<5          
+ASAT                ¦U/L     ¦27                                          ¦<35         
+ALAT                ¦U/L     ¦43                                          ¦<43         
+Gamma GT            ¦U/L     ¦76                                        + ¦<45         
+Phosphatases alca…² ¦U/L     ¦93                                          ¦<115        
+Bilirubine totale   ¦µmol/L  ¦5                                           ¦<17         
+Bilirubine conjuguée¦µmol/L  ¦<2.00                                       ¦<6          
+¹ DFG calculé par CKD-EPI
+² Phosphatases alcalines
+Marqueurs cardiaques - Sang
+Hémolyse indice     ¦        ¦Hémolysé +                                  ¦            
+Ictère indice       ¦        ¦Non ictérique.                              ¦            
+Lipémie indice      ¦        ¦Clair                                       ¦            
+BNP                 ¦ng/L    ¦777                                       + ¦<100        
+COMPTE-RENDU BIOCHIMIE
+CR - Pdf
+CR Biochimie        ¦        ¦PDF                                         ¦            
+_______________________________________________________________________________________
+ 872600240582                ¦03/02/26                                    ¦Valeurs de  
+Analyse             ¦Unité   ¦06:30                                       ¦réf.        
+                    ¦        ¦Complet                                     ¦            
+_______________________________________________________________________________________
+HEMATOLOGIE - CYTOLOGIE
+Numération
+Leucocytes          ¦x10*9/L ¦11.54                                     + ¦4-10        
+Hématies            ¦x10*12/L¦3.14                                      - ¦4.5-5.8     
+Hémoglobine         ¦g/dL    ¦8.7                                       - ¦13-17.5     
+Hématocrite         ¦%       ¦26.3                                      - ¦40-54       
+VGM                 ¦fL      ¦83.8                                        ¦80-100      
+TCMH                ¦pg      ¦27.7                                        ¦27-32       
+CCMH                ¦g/dL    ¦33.1                                        ¦32-36.5     
+IDR                 ¦%       ¦14                                          ¦10-16       
+Plaquettes          ¦x10*9/L ¦244                                         ¦150-400     
+VMP                 ¦fL      ¦12.4                                      + ¦8-11        
+IDP                 ¦%       ¦15.5                                        ¦            
+Formule Sanguine
+Polynucléaires ne…¹ ¦%       ¦82.5                                        ¦            
+Polynucléaires ne…¹ ¦x10*9/L ¦9.52                                      + ¦1.5-7       
+Polynucléaires éo…² ¦%       ¦2.1                                         ¦            
+Polynucléaires éo…² ¦x10*9/L ¦0.24                                        ¦0-0.5       
+Polynucléaires ba…³ ¦%       ¦0.4                                         ¦            
+Polynucléaires ba…³ ¦x10*9/L ¦0.05                                        ¦0-0.2       
+Lymphocytes         ¦%       ¦9.7                                         ¦            
+Lymphocytes         ¦x10*9/L ¦1.12                                      - ¦1.5-4       
+Monocytes           ¦%       ¦4.5                                         ¦            
+Monocytes           ¦x10*9/L ¦0.52                                        ¦0.2-1       
+Granuleux immatures ¦%       ¦0.8                                         ¦<2          
+Erythroblastes      ¦%       ¦0.1                                         ¦<1          
+¹ Polynucléaires neutrophiles
+² Polynucléaires éosinophiles
+³ Polynucléaires basophiles
+COMPTE-RENDU BIOCHIMIE
+CR - Pdf
+CR Biochimie        ¦        ¦PDF                                         ¦            

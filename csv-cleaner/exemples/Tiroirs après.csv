@@ -1,0 +1,1001 @@
+﻿lesson,books,is_free,knowledges,sources,title
+semiologie_myasthenie,NEU ,1,N098N02 ,,Sémiologie clinique de la myasthénie auto-immune
+numerotations_dents,CMF ; PED ,0,N047N16 ,,Numérotation de la denture déciduale et définitive
+classification_maladie_renale_chronique,NEP ,1,N264N07 ,,Classification de la maladie rénale chronique
+superiorite_non_inferiorite_equivalence,LCA ; LCA12 ; SPU_SPU ,0,N323N24 ,,"Essai de supériorité, non-infériorité ou équivalence ?"
+transmission_virus_hepatotropes,HGE ; MIT ,0,N167N02 ,,Modes de transmission des virus hépatotropes
+diag_trouble_symptomatologie_somatique_tss,PSY ,0,N072N06 ,,Diagnostiquer un trouble à symptomatologie somatique
+sapl_allongement_tca,HEM ; MII ,0,N194N07 ; N216N07 ,,Syndrome des anticorps antiphospholipides et allongement du TCA
+hospit_palu,MIT ,1,N170N07 ,,Critères d’hospitalisation du paludisme
+exploration_radio_traumatologie_centrale,COT ,0,N334N37 ,,Exploration radiologique en traumatologie centrale
+suivi_grossesse,GYO ,0,N023N07 ,,Suivi d'une grossesse
+correlation_anatomoclinique_avc,NEU ,1,N340N05 ,,Corrélation anatomo-clinique des AVC ischémiques 
+fdr_clinique_saos,NEU ; PNE ,0,N110N15 ; N110N17 ,,Facteurs de risque et symptomatologie du syndrome d’apnée du sommeil
+evaluation_risque_suicidaire,PSY ,1,N353N05 ,,Évaluation du risque suicidaire
+semiologie_polyneuropathie_axonale,NEU ,0,N096N03 ,,Sémiologie de la polyneuropathie axonale longueur-dépendante
+soins_palliatifs_domicile,ARE ,0,N139N02 ,,Les soins palliatifs à domicile
+indication_transfusion_plaquette,HEM ,0,N329N06 ,,Indications à la transfusion de plaquettes
+certificat_deces,MLT_L ,0,N013N16 ,,Certificat de décès
+usage_mesusage_trouble,PSY ,0,N076N02 ; N077N03 ; N078N10 ; N078N11 ,,"Usage, mésusage et trouble lié à l’usage d’une substance psychoactive"
+objectif_remplissage_hemorragie_digestive,HGE ,0,N355N14 ,,Objectifs de remplissage de l’hémorragie digestive
+semio_fesf,COT ,0,N363N03 ,,Signes cliniques d’une FESF
+gravite_hemorragie_digestive,HGE ,0,N355N11 ,,Facteurs de gravité de l’hémorragie digestive
+semiologie_troubles_humeur,PSY ,0,N066N05 ; N064N08 ; N064N09 ,,Sémiologie des troubles de l’humeur
+anatomie_coiffe_rotateurs,COT ; RHU ,0,N361N07 ; N361N08 ,,Anatomie de la coiffe des rotateurs
+fievre_postop_chir_dig,CVD ,0,,,Fièvre post-opératoire en chirurgie digestive
+precautions_gouttelettes,MIT ; SPU_SPU ,0,N004N44 ,precautions_air_gouttelettes ,Précautions “gouttelettes”
+leucocyturie_aseptique,MIT ; URO ,0,N161N06 ; N159N08 ; N164N10 ; N260N10 ,,Leucocyturie aseptique
+immunofluorescence_directe_dbai,DVE ; ACP ,1,N112N03 ,,Immunofluorescence directe des dermatoses bulleuses auto-immunes
+critere_hospit_anorexie,PSY ; NUT ,0,N071N11 ,pec_anorexie ,Critères d’hospitalisation de l’anorexie mentale
+hippocratisme_digital,PNE ,0,N309N04 ; N239N04 ; N203N05 ,,Hippocratisme digital
+protections_juridiques,MLT_L ,0,N009N11 ,,Mesures de protections juridiques
+examens_hemorragie_occulte,HEM ,0,N219N15 ,,Cinétique des examens de l’hémorragie occulte
+diag_top,PSY ,0,N068N04 ,,Diagnostic d’un trouble opposition avec provocation (TOP) 
+participation_forfaitaire,SPU_SPU ,0,N019N10 ,participation_forfaitaire ; franchise_medicale ,Participation forfaitaire et franchise médicale
+opiodes_forts_agonistes_purs,DSP ,1,N135N07 ,,Récapitulatif sur les opioïdes forts agonistes purs
+bilan_lymphome,HEM ,0,N319N05 ; N319N06 ,,Bilan initial d’un lymphome
+hemogramme_normal,HEM ,1,N212N01 ; N212N02 ,,Hémogramme normal
+strategie_diag_tvp,MCA ; MVA ; PNE ,0,N226N04 ,,Stratégie diagnostique devant une suspicion de TVP
+semiologie_conjonctivite,OPH ,1,N083N04 ,,Sémiologie de la conjonctivite
+elevation_vs,MII ,0,N185N06 ,,Causes d’élévation de la vitesse de sédimentation (VS)
+spermogramme,URO ,0,N038N08 ,,Spermogramme
+gayet_wernicke,NEU ,0,N076N18 ,,Encéphalopathie de Gayet-Wernicke 
+complications_stemi,MCA ,0,N339N05 ,,Complications précoces d’un infarctus du myocarde ST+
+rutherford_ischemie,MCA ; MVA ,0,N225N07 ,,Niveau de sévérité d’une ischémie aiguë selon Rutherford
+classification_tnm,ONC ,0,N292N14 ,,Préfixes de la classification TNM des cancers
+reconnaissance_maladie_professionneelle,MLT_L ,1,N184N05 ,,La reconnaissance en maladie professionnelle
+bilan_carence_fer,HEM ,0,N219N10 ,,Bilan martial d’une carence absolue en fer
+clinique_intox_cannabis,PSY ,0,N078N08 ,,Manifestations cliniques de l’intoxication au cannabis 
+migraine_avf_nevralgie,NEU ,0,N100N04 ,,"Distinguer migraine, algie vasculaire de la face et névralgie essentielle du trijumeau"
+responsabilite_civile_administrative,MLT_L ; SPU_SPU ,0,N005N03 ; N005N04 ,,Responsabilité civile et administrative
+imagerie_chc,ONC ; HGE ; CVD ,1,N304N05 ,,Imagerie du carcinome hépatocellulaire
+appariement,LCA ; LCA12 ; SPU_LCA ,0,N020N26 ,,Appariement en épidémiologie analytique
+aag_gestes_invasifs,TPT ,0,N330N06 ; N322N11 ,,Antiagrégants plaquettaires et gestes invasifs
+imagerie_urgence_abdo,HGE ; CVD ,0,N277N13 ; N277N21 ; N358N09 ; N354N09 ; N287N09 ; N356N16 ; N357N12 ,,Imagerie de l’urgence abdominale
+classification_tanner,PED ; EDN ,0,N049N04 ,,Classification de Tanner
+semio_decollement_retine,OPH ,1,N082N16 ,,Sémiologie du décollement de rétine
+communication_interatriale,MCA ; PED ,0,N238N04 ,,Communication inter-atriale (CIA)
+radiologie_arthrose_arthrite,RHU ,1,N129N10 ,,Signes radiologiques d’une arthrose et d’une arthrite
+interactions_cytochrome,TPT ,1,N322N13 ,,Interactions médicamenteuses liées au cytochrome P450 3A4
+semiologie_cataracte,GER ; OPH ,0,N081N09 ,,Sémiologie de la cataracte
+fdr_fa,MCA ,0,N232N03 ,,Épidémiologie analytique de la FA
+ulcere_arteriel_veineux,MCA ; MVA ,1,N228N02 ,,Ulcère artériel vs ulcère veineux 
+cause_eosinophilie,HEM ; MIT ; MII ,1,N218N04 ,,Causes d’éosinophilie
+pouteau_colles,COT ,0,N363N13 ; N363N14 ; N363N15 ; N363N16 ,,Fracture de Pouteau-Colles
+indication_dai,MCA ,0,N234N21 ,,Indications au défibrillateur automatique implantable (DAI)
+liens_interets,SPU_SPU ,0,N323N09 ,,Liens d’intérêts et déclaration publique d’intérêts (DPI)
+hyperkaliemie_iatrogene,NEP ,1,N267N14 ,,Hyperkaliémie iatrogène
+contraception_ei,GYO ,1,N036N05 ; N036N10 ,,Effets indésirables et bénéfiques de la contraception œstroprogestative
+ttt_sep,NEU ,0,N104N11 ,,Prise en charge thérapeutique de la SEP
+tabac_mcv,MCA ; PSY ,0,N075N15 ,,Tabac et maladie cardiovasculaire 
+claude_bernard_horner,ONC ; PNE ; NEU ,1,N309N04 ,,Syndrome de Claude-Bernard-Horner (CBH)
+semiologie_syndrome_parkinsonien,NEU ,1,N106N02 ; N106N04 ,,Sémiologie d’un syndrome parkinsonien typique et formes atypiques
+imagerie_mici,HGE ,0,N282N05 ,,Imagerie des maladies inflammatoires chroniques de l’intestin
+interpreter_trouble_memoire,MPR ; NEU ,0,N108N09 ,,Comment interpréter des troubles de la mémoire ?
+agitation_iatrogene,PSY ,0,N351N04 ,,Agitation aiguë iatrogène
+vasospasme,NCU ,0,N341N12 ,,"Vasospasme, déficit neurologique retardé et ischémie cérébrale retardée"
+phobie_sociale,PSY ,0,N066N22 ,,Sémiologie et diagnostic du trouble anxiété sociale
+ttt_pression_intraoculaire,OPH ,0,N084N15 ,,Les traitements permettant de baisser la pression intraoculaire
+anevrisme_poplite,MCA ; MVA ,0,N225N10 ,,Anévrisme poplité
+sd_turner,EDN ; PED ,0,N049N19 ,,Syndrome de Turner
+information_defunt,MLT_L ,0,N007N04 ,,Information médicale sur un défunt 
+commotion_sd_post_commotionnel,NCU ,0,N334N53 ,,Commotion cérébrale et syndrome post-commotionnel
+endoscopie_hemorragie_digestive,HGE ,0,N355N17 ,,Endoscopie haute dans l’hémorragie digestive
+bilan_corticotherapie,RHU ; TPT ; MII ,0,N330N01 ,,Bilan préalable à une corticothérapie
+ttt_tumeurs_foie,ONC ; HGE ; CVD ,1,N304N11 ,,Prise en charge des tumeurs hépatiques bénignes et malignes
+ttt_hta_grossesse,GYO ,0,N024N13 ,,Traitement antihypertenseur et grossesse
+sopk_rotterdam,GYO ; EDN ,0,N042N08 ,,Critères de Rotterdam pour le diagnostic du syndrome des ovaires polykystiques (SOPK)
+consentement_ecrit,MLT_L ,0,N007N05 ,,Consentement écrit
+fdr_aggravation_retinopathie,EDN ; OPH ,0,N247N06 ,,Facteurs de risque d’aggravation rapide de la rétinopathie diabétique
+vittel,COT ; ARE ,0,N334N37 ,,Critères de Vittel chez le polytraumatisé  (En cours de rédaction ✍️)
+drapeau_rouge_souffle_enfant,MCA ; PED ,0,N238N01 ,,Drapeaux rouges devant un souffle de l’enfant
+prevention_mort_inattendue_nourrisson,PED ,0,N345N08 ,,Consignes de prévention de la mort inattendue du nourrisson (MIN)
+diag_tachycardie_jonctionnelle,MCA ,0,N231N16 ,,Diagnostiquer une tachycardie jonctionnelle (En cours de rédaction ✍️)
+ttt_fond_bpco,PNE ,1,N209N11 ,,Traitement de fond de la BPCO
+lcs_infections_meningees,MIT ; NEU ,0,N151N07 ,,Interprétation des analyses du LCS dans les infections méningées
+etiologie_dyslipidemie,EDN ; MCA ,0,N223N07 ,,Étiologies les plus importantes de dyslipidémies 
+palpitations_gravite,MCA ,0,N237N02 ,,Signes de gravité des palpitations
+hypercalcemie_myelome,HEM ; RHU ,1,N320N05 ,,Hypercalcémie du myélome multiple
+palpation_pouls,MCA ; MVA ,0,N225N03 ,,Palpation des pouls (schéma)
+ivg_legal,GYO ,0,N037N05 ,,Conditions légales de la pratique d’une IVG
+diag_myelome,HEM ; RHU ,1,N320N06 ; N320N07 ,,Diagnostic de myélome multiple 
+fdr_dhbn,DVE ,0,N155N12 ,,Facteurs de risque de fasciite nécrosante (DHBN)
+secret_medical_partage,MLT_L ,0,N007N06 ,,Secret médical partagé
+bilan_etiologique_cirrhose,HGE ,0,N279N07 ,,Bilan étiologique d’une cirrhose hépatique
+ald,SPU_SPU ,1,N019N12 ,,Affection longue durée (ALD)
+psychique_postpartum,PSY ; GYO ,0,N069N05 ,,Troubles psychiques du post-partum
+association_epidemio,LCA ; LCA12 ; SPU_LCA ,0,N020N22 ,,Mesure d’association en épidémiologie analytique
+semio_insuffisance_mitrale,MCA ,1,N233N04 ,,Sémiologie de l’insuffisance mitrale
+prevention_primaire_secondaire_tertiaire,ONC ; SPU_SPU ,0,N290N20 ,,"Prévention primaire, secondaire et tertiaire selon l’OMS"
+anticorps_mai,MII ; RHU ,1,N192N04 ,,Valeur diagnostique des anticorps dans les maladies auto-immunes
+semio_syndrome_rectal,CVD ,0,N162N14 ,,Sémiologie du syndrome rectal
+civd_definition,HEM ,0,N216N09 ,,Définition de la CIVD
+score_cha2ds2_va,MCA ,0,N232N12 ,,Score CHADSVA
+bilan_radiculalgie,RHU ; NEU ,0,N095N07 ,,Stratégie d’exploration radiologique d’une radiculalgie
+audiometrie,ORL ,0,N089N04 ,,Audiométrie
+anatomie_poulies_flechisseurs,COT ,0,N349N10 ,,Anatomie des poulies des fléchisseurs digitaux
+demence_vasculaire,NEU ; GER ,0,N132N06 ,,Démence vasculaire
+bilan_obesite,NUT ; EDN ,0,N253N07 ,obesite_guide_parcours ,Bilan initial d’une obésité chez l’adulte
+definition_agression_sexuelle,MLT_L ,0,N012N01 ,,Définition d’une agression sexuelle et d’un viol
+adk_ce_oesophage,ONC ; HGE ; CVD ,0,N305N01 ,,Adénocarcinome vs carcinome épidermoïde de l’œsophage
+ci_irm,NEU ,0,N340N11 ,,Contre-indications à l’imagerie par résonnance magnétique (IRM)
+diag_asthme,PNE ,1,N188N05 ,,Diagnostiquer un asthme
+risque_alpha_beta,SPU_SPU ; LCA ; LCA12 ,0,N020N12 ,,Risque α et risque β
+pasteurellose,MIT ,0,N173N10 ,,La pasteurellose
+persistance_canal_arteriel,MCA ; PED ,0,N238N04 ,,Persistance du canal artériel
+epp_inflammation,MII ,1,N185N04 ; N185N05 ; N185N06 ; N185N07 ,,Électrophorèse des protéines sériques et syndrome inflammatoire
+bilan_thrombophilie_mtev,MCA ; MVA ; PNE ,1,N226N03 ,,Bilan de thrombophilie dans la maladie thromboembolique veineuse
+depression_bipolaire,PSY ,0,N064N10 ,trouble_bipolaire ,Signes évoquant une bipolarité devant un épisode dépressif caractérisé
+visite_prereprise,MLT_L ,1,N182N02 ,visite_reprise_prereprise ,Visite de reprise 
+ci_pl,MIT ; NEU ,1,N151N10 ,,Contre-indications à la ponction lombaire
+horton_takayasu,MII ,0,N195N15 ; N195N03 ; N195N04 ,,Maladie de Horton vs maladie de Takayasu
+prevention_cv,MCA ,0,N222N10 ; N222N11 ; N222N12 ,,Prévention cardiovasculaire 
+secret_medical,MLT_L ,0,N007N06 ,,Fondements du secret médical et sanctions
+sydney_estomac_anapath,HGE ; ACP ,0,N303N01 ,,Anatomo-pathologie de l’estomac (Sydney System)
+paralysies_oculomotrices,NEU ,0,N102N06 ,,Paralysies oculomotrices (En cours de rédaction ✍️)
+antifongiques_systemiques,DVE ,0,N177N26 ,,Antifongiques systémiques des dermatophytoses
+ovcr,OPH ,0,N082N09 ,,OVCR ischémique vs OVCR non ischémique
+modele_bouchon,GER ,0,N130N03 ; N123N03 ,,Modèle de J.-P. Bouchon et facteurs de risque en gériatrie
+indications_sedation,ARE ,0,N141N07 ,,Indications de la sédation profonde et continue jusqu’au décès
+arthralgie_inflammatoire_mecanique,RHU ,1,N200N03 ,,Horaire inflammatoire ou mécanique ?
+ei_antibio,MIT ,0,N177N05 ; N177N06 ; N177N07 ; N177N08 ; N177N09 ; N177N10 ; N177N12 ; N177N13 ; N177N11 ; N177N14 ; N177N15 ,,Effets indésirables les plus fréquents des antibiotiques (En cours de rédaction ✍️)
+sd_terson,NCU ,0,N082N07 ; N082N17 ,,Syndrome de Terson
+gravite_malaise_nourrisson,PED ,0,N345N06 ,,Critères cliniques de gravité d’un malaise chez le nourrisson
+cycle_marche,MPR ,0,N131N01 ,,Cycle de la marche
+evaluation_geriatrique_standardisee,GER ,0,N130N02 ,,Évaluation gériatrique standardisée (EGS)
+diag_waldenstrom,HEM ; RHU ,0,N320N04 ,,Diagnostic de maladie de Waldenström
+bilan_malaise_suspect,NEU ,0,N105N10 ,,Bilan de première ligne devant un malaise suspect
+analyse_tendance,LCA ; LCA12 ; SPU_LCA ,0,N020N30 ,,Analyse de tendance
+douleur_neuropathique,DSP ,0,N134N08 ,,Douleur neuropathique
+semio_phlegmon,COT ,1,N349N10 ,,Sémiologie du phlegmon des gaines digitales
+prevention_hemorragie_cirrhose,HGE ,0,N279N09 ,,Prévention de l’hémorragie digestive chez le cirrhotique
+surveillance_antithyroidien_synthese,EDN ,1,N242N13 ,,Surveillance d’une hyperthyroïdie sous antithyroïdiens de synthèse
+syndrome_pleural,PNE ,1,N206N01 ,,Syndrome pleural 
+ipp_ains_coprescription,HGE ,0,N355N13 ,,Co-prescription d’IPP en cas de prescription d’AINS
+semiologie_hemangiome,DVE ; CMF ,0,N113N02 ,,Sémiologie d’un hémangiome infantile
+diag_tdah,PSY ,0,N067N05 ,,Diagnostic d’un trouble déficit de l’attention avec hyperactivité (TDAH)
+semiologie_narcolepsie,NEU ; PSY ,0,N110N05 ; N110N11 ,,Tableau clinique d’une narcolepsie
+fdr_osteoporose,RHU ,0,N128N04 ,,Facteurs de risque d’ostéoporose
+indications_asp,HGE ; CVD ,1,N354N08 ; N269N08 ,,Indications à l’abdomen sans préparation (ASP)
+ttt_asthme,PNE ,1,N188N17 ; N188N18 ; N188N19 ; N188N20 ,,Prise en charge pharmacologique de l'asthme
+temps_partiel_therapeutique,SPU_SPU ,1,N182N04 ,,Temps partiel thérapeutique
+epilepsie_myoclonale_juvenile,NEU ,0,N105N15 ,,Epilepsie myoclonique juvénile 
+criteres_fragilite_fried,GER ,0,N130N15 ,,Critères de fragilité de Fried
+ira_fonctionnelle_organique,NEP ,1,N348N04 ,,Insuffisance rénale aiguë fonctionnelle vs organique 
+indication_chir_bariatrique,NUT ,0,N253N12 ,,Indications à la chirurgie bariatrique 
+echelles_douleur,DSP ,1,N134N06 ,,Échelles d’évaluation de la douleur
+examen_extemporane,ONC ; ACP ,1,N293N06 ,,Examen extemporané
+unites_soins_palliatifs,ARE ,0,N139N02 ,,Unités de soins palliatifs (USP)
+semio_insuffisance_aortique,MCA ,1,N233N04 ,,Sémiologie de l’insuffisance aortique
+syndrome_parsonage_turner,NEU ,0,N095N03 ,,Syndrome de Parsonage-Turner
+facteurs_declenchant_poussee_insuffisance_cardiaque,MCA ,0,N234N16 ,,Facteurs déclenchants d’une poussée d’insuffisance cardiaque
+innervation_jambe_pied,NEU ,0,N095N15 ,,Innervation de la jambe et du pied
+nyha,MCA ,1,N234N09 ,,Échelle NYHA
+accompagnement_bpco,PNE ,1,N209N11 ,,Mesures d’accompagnement de la prise en charge de la BPCO
+interpretation_lba,PNE ,0,N210N07 ,,Interprétation d’un lavage bronchiolo-alvéolaire (LBA)
+ei_opioides,DSP ,1,N135N07 ,,Effets indésirables des opioïdes
+professionnels_sante,SPU_SPU ; MPR ,1,N016N09 ,,Professionnels de santé
+sd_cave_superieur,PNE ; HEM ; ONC ,1,N319N02 ; N315N05 ; N297N05 ; N309N04 ,,Syndrome cave supérieur
+diagnostic_hta,MCA ,0,N224N04 ,,Comment diagnostiquer une HTA ?
+types_epanchement_pleural,PNE ,1,N206N04 ,,Épanchement pleural transsudatif ou exsudatif ?
+comparabilite_tableau1,LCA ; LCA12 ; SPU_SPU ,0,N323N22 ,,Comparabilité des groupes sur le tableau 1
+criteres_eme,MLT_L ,0,N201N07 ,,Critères de l’état de mort encéphalique (EME)
+cardiotocographie,GYO ,0,N031N08 ; N031N04 ,,Cardiotocographie
+bilan_etiologique_cushing,EDN ,0,N244N06 ,,Bilan étiologique d’un syndrome de Cushing 
+pseudoasthme_cardiaque,MCA ,1,N234N09 ; N203N09 ,,Pseudo-asthme cardiaque 
+diag_sd_metabolique,MCA ; NUT ,0,N222N03 ,,Diagnostiquer un syndrome métabolique
+ttt_hypercalcemie,NEP ; EDN ,0,N268N09 ,,Traitement de l’hypercalcémie aiguë
+diag_fpi,PNE ,0,N210N06 ,,Diagnostiquer une fibrose pulmonaire idiopathique
+histologie_estomac,HGE ; ACP ,0,N272N14 ,,Histologie de l’estomac
+severite_saos,NEU ; PNE ,0,N110N20 ,,Seuils de sévérité de l’IAH chez l’adulte et chez l’enfant
+classification_damico,ONC ; URO ,0,N310N04 ,,Classification de D’Amico
+epilepsie_paroxysmes_rolandiques,NEU ,0,N105N07 ,,Epilepsie à paroxysmes rolandiques
+precautions_air,MIT ; SPU_SPU ,0,N004N44 ,precautions_air_gouttelettes ,Précautions “air”
+consequences_irc,NEP ,1,N264N19 ; N264N21 ,,Conséquences clinico-métaboliques de l’insuffisance rénale chronique
+prise_en_compte_confusion,SPU_SPU ; LCA ; LCA12 ,0,N020N14 ,,Prise en compte d’un facteur de confusion
+diag_fibrillation_atriale,MCA ,0,N232N05 ,,Diagnostiquer une fibrillation atriale (En cours de rédaction ✍️)
+classification_garden,COT ,1,N363N06 ,,Classification de Garden
+leucorrhees_pathologiques,GYO ,0,N162N10 ,,Symptomatologie des leucorrhées pathologiques 
+semio_colique_hepatique,HGE ; CVD ,0,N277N06 ,,Sémiologie de la colique hépatique
+semiologie_choree,NEU ,0,N107N01 ,,Sémiologie des mouvements anormaux : chorée (En cours de rédaction ✍️)
+classification_handicap,MPR ,0,N118N05 ,,Classification du handicap
+semiologie_angiome_plan,DVE ; CMF ,0,N113N05 ,,Sémiologie d’un angiome plan
+dmo_scores,RHU ,0,N128N01 ,,"Densitométrie osseuse, T-score et Z-score"
+semio_angor_stable,MCA ,0,N339N05 ,,Sémiologie de l’angor stable 
+purpura_vasculaire_thrombopenique,HEM ; DVE ; MII ,1,N215N02 ,,Purpura vasculaire vs purpura thrombopénique
+hypergamma_polyclonale,HEM ; RHU ,0,N185N09 ,,Hypergammaglobulinémie polyclonale
+etiologies_cataracte,GER ; OPH ,0,N081N09 ,,Étiologies de la cataracte
+clinique_aomi,MCA ; MVA ,0,N225N03 ,,Signes fonctionnels de l’AOMI
+fdr_bav_progressive,OPH ,1,N081N07 ; N081N09 ,,Facteurs de risque communs des principales causes de baisse d’acuité visuelle progressive
+troubles_urinaires_centraux,MPR ; URO ,0,N125N06 ,,Troubles urinaires d’origine centraux (En cours de rédaction ✍️)
+adl,GER ,1,N133N04 ,,Échelle ADL (Activities of Daily Living)
+semio_valvulopathies,MCA ,1,N233N04 ,,Sémiologie des valvulopathies
+qsofa,MIT ,1,N158N02 ,,qSOFA et définition du sepsis et du choc septique
+ttt_vih,MIT ,0,N169N14 ,,Initiation et suivi d’un traitement antirétroviral chez un patient positif au VIH
+bilan_angor_stable,MCA ,0,N339N05 ,,Bilan d’un angor stable 
+glaucome_neovasculaire,OPH ,0,N082N09 ,,Glaucome néovasculaire
+mac_isaac,MIT ,1,N149N06 ,,Score de Mac Isaac 
+ottawa_cheville,COT ,0,N361N16 ,entorse_cheville ,Critères d’Ottawa de la cheville et du pied
+classification_fa,MCA ,0,N232N06 ,,Classification de la fibrillation atriale
+protocole_irm_avc,NEU ,0,N340N11 ,,Protocole IRM de l’AVC
+situations_risque_endocardite,MCA ; MIT ,1,N152N03 ,endocardite ,Situations à risque d’endocardite infectieuse
+atb_fasciite,DVE ; MIR ,0,N155N19 ,,Antibiothérapie de la fasciite nécrosante
+aides_enfant_handicape,PSY ; PED ,0,N067N06 ,,Aides financières et sociales de l’enfant handicapé
+apa,GER ,1,N133N02 ,,Allocation personnalisée d’autonomie (APA)
+tachycardie_jonctionnelle_wpw,MCA ,0,N237N07 ; N237N08 ,,Tachycardie jonctionnelle paroxystique et syndrome de Wolff-Parkinson-White (En cours de rédaction ✍️)
+cas_temoin_nichee,SPU_SPU ; LCA ; LCA12 ,0,N020N19 ,,Étude cas-témoin nichée
+test_de_marche_tapis,MCA ; MVA ,0,N225N04 ,,Test de marche sur tapis roulant
+ttt_hyperkaliémie,NEP ,1,N267N16 ; N267N17 ,,Traitements de l’hyperkaliémie
+consequence_denutrition_sujet_age,NUT ; GER ,1,N252N05 ,,Conséquences de la dénutrition chez le sujet âgé
+red_man_syndrome,DVE ; MIT ; TPT ,0,N177N15 ,,Le Red man syndrome
+asthme_professionnel,PNE ,1,N188N06 ,,Asthme professionnel
+biologie_lupus,NEP ; MII ,0,N194N11 ,,Perturbations biologiques du lupus systémique
+sd_lynch,ONC ; HGE ,0,N291N09 ,depistage_ccr ,Syndrome de Lynch (HNPCC)
+critere_qualite_prelevements_respi,MIT ,0,N154N08 ,,Critères de qualité et seuils pathogènes des prélèvements respiratoires
+bilan_hta,MCA ,0,N224N06 ,,Bilan paraclinique en cas d’HTA 
+indication_consult_oncogenetique,ONC ,0,N291N08 ; N291N09 ,,Indications à une consultation d’oncogénétique
+syndrome_cerebelleux,NEU ,0,N107N02 ,,Syndrome cérébelleux
+communication_interventriculaire,MCA ; PED ,0,N238N04 ,,Communication inter-ventriculaire (CIV)
+syndrome_queue_cheval,NCU ; NEU ,0,N093N11 ,,Syndrome de la queue de cheval
+declaration_atmp,MLT_L ,1,N184N05 ,,Déclaration d’un accident du travail ou d’une maladie professionnelle
+injections_intravitreennes_complications,OPH ,0,N082N16 ; N082N17 ,,Complications des injections intravitréennes
+restriction_sodee,NEP ; NUT ,1,N264N15 ,irc_has ,Restriction sodée
+insuffisance_veineuse_compression,MCA ; MVA ,0,N227N10 ,,Compression et insuffisance veineuse chronique 
+vaccination_pneumocoque,MIT ,1,N146N07 ; N154N17 ,,Vaccination anti-pneumococcique
+mutation_brca,ONC ; GYO ,1,N291N08 ,,Mutation BRCA
+hemorragie_grave_has,HEM ; TPT ,1,N330N08 ,,Hémorragie grave selon la HAS
+complications_furoncle,DVE ,0,N155N25 ,,Complications d’un furoncle
+ipp_apres_eradication_pylori,HGE ,0,N272N13 ,,IPP après éradication de Helicobacter pylori
+calendrier_vaccinal,PED ; MIT ,1,N146N06 ,,Calendrier vaccinal
+prevention_tuberculose,MIT ; PNE ; PED ,0,N159N15 ,hcsp_enquete_tuberculose ,Mesures de prévention de la transmission de la tuberculose
+semiologie_hypercapnie,PNE ; MIR ,0,N359N06 ,,Sémiologie de l’hypercapnie
+semio_dissection_carotidienne,NEU ,0,N340N06 ,,Sémiologie de la dissection carotidienne
+serologie_vhb,MIT ; HGE ,1,N167N05 ; N167N06 ,,Sérologie du virus de l’hépatite B (VHB)
+apgar,PED ,1,N032N01 ,,Score d’Apgar
+pronostic_berger,NEP ,0,N261N13 ,,Facteurs de mauvais pronostic de la maladie de Berger
+psychostimulants_ei,PSY ,0,N074N26 ,,Effets indésirables des psychostimulants (En cours de rédaction ✍️)
+bilan_hematurie,NEP ; URO ,1,N260N05 ,,Bilan étiologique devant une hématurie
+resistance_enterobacteries,MIT ,1,N177N05 ; N177N06 ; N177N07 ; N177N08 ,,Résistances des entérobactéries aux β-lactamines (En cours de rédaction ✍️)
+semiologie_syndrome_meninge,MIT ; NEU ,1,N151N02 ,,Sémiologie d’un syndrome méningé
+ttt_douleur_neuropathique,DSP ,0,N135N04 ,ttt_douleur_neuropathique ,Prise en charge de la douleur neuropathique
+orbitopathie_basedow,EDN ; OPH ,0,N242N03 ; N242N05 ,,Orbitopathie de Basedow
+bilan_extension_ccr,ONC ; HGE ; CVD ,0,N301N14 ,,Bilan d'extension du cancer colo-rectal
+fievre_prolongee,MII ,0,N190N01 ,,Fièvre prolongée
+derogation_secret,MLT_L ,1,N007N06 ,,Dérogations légales au secret médical
+fracture_plancher_orbite,CMF ,1,N335N18 ,,Fracture du plancher de l’orbite
+critere_malignite_masse_ovarienne,ONC ; GYO ,0,N306N01 ,,Critères de malignité d’une masse ovarienne
+interpretation_efr,PNE ,0,N203N08 ; N208N05 ,,Interprétation des EFR
+diag_fibrillation_ventriculaire,MCA ,0,N231N20 ,,Diagnostiquer une fibrillation ventriculaire (En cours de rédaction ✍️)
+bilan_sd_confusionnel,NEU ,0,N343N08 ,,Bilan étiologique de première ligne devant un syndrome confusionnel
+ttt_dermatite_atopique,DVE ; IMM ,0,N187N12 ,,Prise en charge de la dermatite atopique
+attitude_vicieuse,MPR ,0,N122N07 ,,Attitude vicieuse
+gravite_chute,GER ,0,N131N09 ,,Signes de gravités d’une chute de la personne âgée
+scintigraphie_blanche,EDN ,0,N242N12 ,,4 étiologies de scintigraphie thyroïdienne blanche
+genetique_constitutionnelle,MLT_L ; GEN ,0,N009N27 ,genetique_constitutionnelle ,Génétique constitutionnelle
+indication_plastie_mitrale,MCA ,0,N233N11 ; N233N10 ,valvulopathies ,Indications à la plastie mitrale
+cas_temoins_cohorte,SPU_SPU ; LCA ; LCA12 ,0,N020N18 ,,Étude cas-témoin vs. étude de cohorte
+diag_siadh,NEP ,0,N267N26 ,,Diagnostic de SIADH
+profil_arcelin_lequesne,COT ,0,N363N04 ,,Profil d’Arcelin ou profil de Lequesne ?
+anapath_mici,HGE ,0,N282N02 ,,Anatomo-pathologie des maladies inflammatoires chroniques de l’intestin
+conseil_hygienodietetique_obesite,NUT ,1,N253N11 ,,Conseils hygiéno-diététiques en situation d’obésité
+surveillance_hydroxychloroquine,MII ; OPH ,0,N081N11 ,,Surveillance ophtalmologique de l’hydroxychloroquine 
+syndrome_postchute,GER ,0,N131N12 ,,Syndrome post-chute
+sequelle_meningoencephalite_herpetique,MIT ; NEU ,0,N151N03 ,,Séquelles d’une méningo-encéphalite herpétique
+certificat_coups_blessures,MLT_L ,1,N013N03 ,,Particularités d’un certificat de coups et blessures
+variables_stats,SPU_SPU ; LCA ; LCA12 ,0,N020N22 ,,Catégories de variable en statistiques
+bilan_extension_cancer_poumon,ONC ; PNE ,0,N309N07 ,,Bilan d’extension du cancer du poumon 
+iadl,GER ,1,N133N04 ,,Échelle IADL (Instrumental Activities of Daily Living)
+score_glasgow,NEU ,1,N336N03 ,,Score de Glasgow et de Glasgow-Liège
+acsos,NCU ,0,N334N52 ,,Agressions cérébrales secondaires d’origine systémique (ACSOS)
+diag_anemie_hemolytique,HEM ,0,N213N07 ,,Diagnostic biologique d’une anémie hémolytique 
+diag_gmsi,HEM ; RHU ,0,N320N02 ,,Diagnostic de gammapathie monoclonale de signification indéterminée (MGUS)
+survie_5_ans_cancers,ONC ,1,N290N05 ; N290N06 ; N290N07 ; N290N08 ; N302N12 ,,Survie à 5 ans des cancers solides
+signalement_maltraitance,PED ; MLT_L ,1,N057N28 ,,Signalement d’une maltraitance 
+biopsies_prostate,ONC ; URO ,1,N310N06 ,,Biopsies prostatiques
+aides_secu,MPR ,0,N133N07 ,,Aides matérielles et humaines prises en charge par la sécurité sociale
+education_therapeutique_epilepsie,NEU ,0,N105N12 ,,Éducation thérapeutique d’un patient épileptique
+depots_lipidiques_extravasculaires,EDN ; MCA ,0,N223N06 ,,Dépôts lipidiques extravasculaires
+evaluation_denutrition_sujet_age,NUT ; GER ,1,N252N02 ,,Evaluation de la dénutrition chez le sujet âgé
+indication_magnesium,GYO ,0,N344N09 ; N024N21 ,,Indication du sulfate de magnésium pendant la grossesse
+fentanyl_transdermique_transmuqueux,DSP ,0,N135N07 ,,Fentanyl transdermique vs fentanyl transmuqueux
+don_donneur_vivant,MLT_L ; NEP ,0,N201N11 ,,Caractéristiques du don d’organe d’un donneur vivant
+semiologie_encephalite_herpetique,MIT ,1,N151N03 ,,Manifestations cliniques d’une encéphalite herpétique
+clause_ambivalence,LCA ; LCA12 ; SPU_SPU ,0,N323N17 ,,Clause d’ambivalence
+fdr_mtev,MCA ; MVA ; PNE ,0,N226N02 ,,Facteurs de risque de MTEV
+bilan_maltraitance,PED ; MLT_L ,1,N057N06 ; N057N25 ,,Examens paracliniques devant une maltraitance
+visite_vip,MLT_L ,0,N183N04 ,,Visite individuelles d’information et de prévention (VIP)
+hta_secondaire,MCA ,0,N224N08 ; N224N09 ; N224N10 ; N224N20 ,,HTA secondaire
+bilan_pac,MIT ; PNE ,1,N154N08 ,,Bilan d’investigation d’une pneumonie aiguë communautaire
+anapath_hepatite_alcoolique,HGE ,0,N279N07 ,,Anatomo-pathologie de l’hépatite alcoolique aiguë (HAA)
+nerfs_craniens,ORL ; NEU ,1,N102N01 ; N101N01 ; N335N02 ,,Les nerfs crâniens
+mici_extradigestive,HGE ,1,N282N04 ,,Manifestations extra-digestives des maladies inflammatoires chroniques de l’intestin
+defense_contracture,HGE ; CVD ,0,N357N03 ,,Défense ou contracture ?
+prevention_alloimmunisation,GYO ,0,N027N28 ,,Prévention de l’allo-immunisation Rh-D chez les patientes de groupe RhD négatif. (En cours de rédaction ✍️)
+prevention_herpes_neonatal,GYO ,0,N027N14 ,,Prévention de l’herpès néonatal chez les nouveau-nés de femmes à risque
+duree_ttt_mtev,MCA ; MVA ; PNE ,0,N226N14 ,,Durées de traitement d’une MTEV
+criteres_gravite_syncope,NEU ; MCA ,1,N342N10 ,,Critères de gravité d’une syncope (En cours de rédaction ✍️)
+diag_tag,PSY ,0,N066N22 ,,Diagnostic d’un trouble anxieux généralisé (TAG)
+differences_crohn_rch,HGE ; MII ,0,N282N03 ,,Éléments opposant maladie de crohn et rectocolite hémorragique
+fdr_ulcere,HGE ,0,N272N03 ,,Facteurs de risque d’ulcère gastro-duodénal
+lecture_ecg,MCA ,1,N231N02 ,,Lecture d’ECG (En cours de rédaction ✍️)
+etiologie_bav,MCA ,0,N236N03 ,,Étiologies des BAV
+semiologie_sep,NEU ,0,N104N03 ,,Tableau clinique d’une SEP
+diag_denutrition,NUT ,1,N250N05 ; N250N06 ; N250N07 ,denutrition_enfant_adulte_PA ; denutrition_sujet_age ,Diagnostiquer une dénutrition à tout âge
+classification_angle,PED ,0,N047N20 ,,Classification d’Angle
+depistage_chc,ONC ; HGE ; CVD ,1,N279N13 ,,Dépistage du carcinome hépatocellulaire sur foie cirrhotique
+resistances_naturelles,MIT ,1,N177N24 ,,Résistances naturelles des bactéries aux antibiotiques (En cours de rédaction ✍️)
+douleur_rythmee_respiration,MCA ,0,N230N06 ,,Douleurs thoraciques rythmées par la respiration
+lesions_coups_blessures,MLT_L ,1,N013N05 ; N013N04 ,,Lésions élémentaires des certificats de coups et blessures
+refus_scolaire_anxieux,PSY ,0,N066N22 ; N066N19 ,,Refus scolaire anxieux
+diag_ap,PSY ,0,N352N04 ,,Diagnostiquer une attaque de panique
+stade_t_vessie,ONC ; URO ,0,N314N06 ,,Stade tumoral T d’un carcinome vésical
+diag_insuffisance_surrenale,EDN ,0,N245N02 ,,Diagnostiquer une insuffisance surrénale  (En cours de rédaction ✍️)
+critere_malignite_nodule_thyroidien,EDN ,0,N241N09 ; N241N10 ,,Critères cliniques et échographiques de malignité d’un nodule thyroïdien
+rqth,MPR ,0,N118N17 ; N182N04 ,,Reconnaissance en qualité de travailleur handicapé (RQTH) 
+marche_sideropenique,HEM ,0,N219N03 ,,Marche sidéropénique
+vascularisation_mi,MCA ; MVA ,0,N225N03 ,,Vascularisation du membre inférieur
+contraception_ci,GYO ,1,N036N07 ,,Contre-indications des méthodes contraceptives
+pec_neutropenie_febrile,ONC ; HEM ; MII ; MIT ,1,N296N08 ,,Exploration et traitement d’une neutropénie fébrile
+itt_per_protocole_traitement_recu,LCA ; LCA12 ; SPU_SPU ,1,N323N25 ,,"Analyses en intention de traiter, per-protocole et traitement reçu"
+classification_carpentier,MCA ,0,N233N02 ,,Classification de Carpentier de l’insuffisance mitrale
+petit_grand_appareillage,MPR ; TPT ,1,N328N04 ,,Petit et grand appareillage orthopédique
+diag_tspt,PSY ,0,N066N50 ,,Diagnostic d’un trouble de stress post-traumatique (TSPT)
+fdr_oma,MIT ; ORL ,0,N150N02 ; N150N03 ,,Facteurs de risque d’otite moyenne aiguë 
+classification_ceap,MCA ; MVA ,0,N227N02 ,,Classification CEAP 
+biais_classement,LCA ; LCA12 ; SPU_LCA ,0,N020N26 ,,Biais de classement et conséquences sur l’effet mesuré
+sep_irm,NEU ,0,N104N15 ,,Caractéristiques neuroradiologiques de la SEP
+ttt_ulcere,MVA ; DVE ,0,N228N14 ,,Pansements et traitement local de l’ulcère
+depistage_neonat,PED ,1,N032N04 ,,Dépistage néonatal systématique
+indications_coro_urgence,MCA ,0,N339N10 ,,Indications à une coronarographie en urgence
+conversion_equivalence_non_inferiorite_superiorite,LCA ; LCA12 ; SPU_SPU ,0,N323N24 ,,"Conversion d’une hypothèse d’équivalence, de non-infériorité en une hypothèse de supériorité"
+prophylaxie_antitetanique,MIT ,1,N160N03 ,,Prophylaxie antitétanique
+criteres_mcdonald,NEU ,0,N104N05 ; N104N06 ,,Critères de McDonald 2017 de la SEP (version 2024 non au programme)
+semio_hernie_abdo,HGE ; CVD ,1,N289N05 ,,Sémiologie d’une hernie abdominale
+raynaud_secondaire,MII ; DVE ,1,N239N03 ,,Arguments en faveur d’un phénomène de Raynaud secondaire
+evolution_hemangiome_infantile,DVE ; CMF ,0,N113N01 ,,Évolution et complications d’un hémangiome infantile
+entretien_motivationnel,PSY ,1,N001N12 ,,Entretien motivationnel
+exploration_thrombopenie,HEM ,0,N214N10 ; N214N11 ,pnds_pti_2 ,Examens systématiques devant une thrombopénie
+histologie_nephropathie_lupique,NEP ; ACP ,0,N194N13 ,,Histologie de la néphropathie lupique
+alerte_developpement,PED ; PSY ,1,N055N02 ; N055N04 ,,Signes d’alerte des troubles du neurodéveloppement
+canal_lombaire_etroit,RHU ; NCU ,0,N093N15 ,,Canal lombaire étroit 
+syndrome_pancoast_tobias,NEU ,0,N095N03 ,,Syndrome de Pancoast-Tobias
+physiologie_fer,HEM ; HGE ,0,N219N03 ,,Physiologie du métabolisme du fer
+diag_cushing,EDN ,0,N244N02 ,,Diagnostiquer un syndrome de Cushing 
+bilan_bio_polyarthrite,RHU ,1,N196N04 ,,Bilan à réaliser devant une polyarthrite débutante
+klinefelter,URO ,0,N038N06 ,,Syndrome de Klinefelter
+vaccination_vhb,MIT ,1,N167N11 ,,Vaccination anti-VHB
+symptomes_hypercalcemie,NEP ; EDN ,0,N268N04 ,,Symptomatologie de l’hypercalcémie
+methode_prevention_risque,SPU_SPU ,0,N004N23 ; N004N22 ,,Méthodes de prévention des risques
+diag_palu,MIT ,0,N170N06 ,,Comment faire le diagnostic positif d’un paludisme ?
+ttt_osm,ORL ,0,N150N09 ,,Prise en charge de l’otite séromuqueuse
+reparation_at_mp,MLT_L ,1,N184N01 ,,Réparation des accidents du travail et des maladies professionnelles
+ttt_hernie_inguinale,HGE ; CVD ,0,N289N10 ,,Traitement de la hernie inguinale
+cpp,MLT_L ; SPU_SPU ,0,N020N03 ,,Comité de protection des personnes (CPP)
+indication_pacemaker,MCA ,0,N236N07 ,,Indications au stimulateur cardiaque définitif
+syndrome_htic,NEU ,0,N100N01 ,,Syndrome d’hypertension intracrânienne
+brca_prevention_cancer,ONC ; GYO ,1,N291N08 ,,Prévention des cancers du sein et de l’ovaire chez une femme mutée BRCA
+mauvais_pronostic_nephropathie_lupique,NEP ,0,N194N14 ,,Facteurs de mauvais pronostic de la néphropathie lupique
+douleur_pancreatique_ulcereuse_biliaire,HGE ,1,N269N09 ,,"Douleur pancréatique, ulcéreuse ou biliaire ?"
+bradford_hill,LCA ; LCA12 ; SPU_LCA ,0,N020N30 ,,Critères de causalité de Bradford Hill
+pbr,NEP ,1,N261N05 ,,Ponction-biopsie rénale
+lcs_sep,NEU ,0,N104N10 ,,Analyse du LCS dans la SEP
+investigation_tuberculose,MIT ; PNE ,0,N159N09 ,,Bilan d’investigation en cas de suspicion de tuberculose (En cours de rédaction ✍️)
+oxygenotherapie_longue_duree,PNE ,1,N208N11 ,,Oxygénothérapie de longue durée 
+responsabilite_penale,MLT_L ; SPU_SPU ,0,N005N02 ,,Responsabilité pénale
+complications_voies_centrales,ARE ,0,N229N07 ,,Complications des voies d’abord centrales
+semiologie_vertiges,NEU ; ORL ,1,N103N05 ,,Sémiologie des vertiges
+indication_chir_insuffisance_aortique,MCA ,1,N233N10 ,,Indications chirurgicales de l’insuffisance aortique
+contraception_postpartum,GYO ,0,N031N16 ,contraception_postpartum ,Contraception du post-partum
+regles_certificat,MLT_L ,0,N013N01 ,,Règles de rédaction d’un certificat médical
+diarrhee_voyageur,MIT ,0,N175N15 ,,Diarrhée du voyageur
+conge_solidarite,ARE ; DSP ,0,N139N08 ,allocation_journaliere_accompagnement ; proche_fin_vie ,Congé de solidarité familiale et allocation journalière d’accompagnement d’une personne en fin de vie (AJAP)
+radiologie_malignite_tumeur_osseuse,ONC ; RHU ,0,N307N02 ,,Critères radiologiques de malignité d’une tumeur osseuse
+rehabilitation_respiratoire,PNE ,0,N209N11 ,,Réhabilitation respiratoire 
+oct_maculaire_papillaire,OPH ,0,N081N05 ,,OCT maculaire vs OCT papillaire
+pec_pneumothorax,PNE ,1,N360N09 ; N360N10 ; N360N11 ,,Prise en charge d’un pneumothorax (En cours de rédaction ✍️)
+innervation_mb_sup,NEU ,0,N095N12 ,,Innervation du membre supérieur
+microbio_meningite,MIT ; NEU ,0,N151N07 ,,Microbiologie des méningites bactériennes
+semio_dhbnn_dhbn,DVE ,0,N155N14 ; N155N15 ,,Caractéristiques cliniques de la DHBNN et de la DHBN
+consequences_cardiaques_hta,MCA ,0,N224N07 ,,Conséquences cardiaques de l’HTA
+rein_myelome,HEM ; NEP ,0,N320N07 ,,Complications rénales du myélome
+marche_osteoporotique,RHU ,0,N128N02 ,,Marche ostéoporotique
+significativite_statistiques,SPU_SPU ,0,N323N12 ,,Significativité statistique
+ttt_hta,MCA ,1,N224N14 ,,Prise en charge médicamenteuse de l’HTA
+iec_ara2,MCA ,1,N330N04 ,,Les IEC et ARA II 
+ttt_teigne,DVE ,0,N155N06 ,,Prise en charge thérapeutique d’une teigne
+impedancemetrie,ORL ,0,N089N05 ,,Impédancemétrie : tympanométrie et réflexe stapédien
+agranulocytose_toxique_immunologique,HEM ,0,N296N02 ,,Agranulocytose post-chimiothérapie vs agranulocytose immuno-allergique
+physiologie_cortisol,EDN ,0,N330N01 ,,Fonctions physiologiques du cortisol
+bartonellose,MIT ,0,N173N04 ; N173N05 ,,La bartonellose
+gravite_palu,MIT ,1,N170N04 ,,Critères de gravité du paludisme
+ischemie_aigue_consequences_metabo,MCA ; MVA ,0,N225N06 ,,Conséquences métaboliques d’une ischémie aiguë de membre 
+temps_injection_scanner_abdo,HGE ; CVD ,1,N276N05 ,,Temps de l’imagerie abdominale injectée
+rcp,ONC ,1,N294N18 ,rcp ,Réunion de concertation pluridisciplinaire (RCP)
+pec_oedeme_maculaire,OPH ,0,N082N09 ,,Prise en charge de l’œdème maculaire
+etiologie_insuffisance_aortique,MCA ,0,N233N03 ,,Étiologies de l’insuffisance aortique
+anticoagulation_valves,MCA ,1,N153N05 ,,Anticoagulation des porteurs de valve (En cours de rédaction ✍️)
+ttt_anca,MII ; NEP ; RHU ,0,N193N10 ,,Traitement d’une vascularite à ANCA
+seuils_ips,MCA ; MVA ,1,N225N03 ,,Seuils d’IPS
+claudication_mi,MCA ; MVA ,0,N225N03 ,,Claudications des membres inférieurs
+myelome_crab,HEM ; RHU ,1,N320N05 ,,Critères CRAB et SLim du myélome et classification des myélomes
+diag_toxidermie,DVE ,1,N115N02 ,,Diagnostiquer une toxidermie médicamenteuse 
+sdra,PNE ; MIR ,0,N359N05 ,sdra ,Syndrome de détresse respiratoire aigu (SDRA)
+iqss,SPU_SPU ,0,N004N49 ,,Indicateurs de qualité et de sécurité des soins (IQSS)
+recherche_ischemie_myocardique,MCA ,0,N339N07 ,,Rechercher une ischémie myocardique
+ttt_tuberculose,MIT ; PNE ,1,N159N12 ,,Traitement de première ligne de la tuberculose maladie 
+trou_anionique_plasmatique,NEP ,0,N267N05 ,,Calcul du trou anionique plasmatique (TAp)
+reason,SPU_SPU ,0,N005N14 ,,Modèle de Reason
+segmentation_pnn,HEM ,0,N316N04 ,,Segmentation des polynucléaires neutrophiles
+eviction_collectivites,PED ,0,N145N13 ,,Indications à l’éviction des collectivités
+ann_arbor,HEM ,0,N319N03 ,,Classification d’Ann Arbor
+diag_tachycardie_atriale,MCA ,0,N231N13 ,,Diagnostiquer une tachycardie atriale (En cours de rédaction ✍️)
+recherche_pylori,HGE ,0,N272N06 ,,Recherche de Helicobacter pylori
+acoumetrie,ORL ,0,N089N03 ,,Acoumétrie
+entente_prealable,MPR ,0,N328N03 ; N328N04 ; N131N22 ; N045N04 ,accord_prealable ,Entente préalable
+ordonnance_kine,MPR ,1,N122N10 ,,Ordonnance de masso-kinésithérapie
+bilan_anorexie,PSY ; NUT ,0,N071N09 ,pec_anorexie ,Bilan paraclinique systématique de l’anorexie mentale
+electromyostimulation,MPR ,0,N122N07 ,,Électromyostimulation
+connectivites_raynaud,MII ,1,N239N03 ,,Connectivites associées au phénomène de Raynaud
+semiologie_erytheme_noueux,PNE ; MII ,1,N211N07 ; N211N06 ,,Sémiologie de l’érythème noueux
+colite_microscopique,HGE ,0,N285N08 ,,Colites microscopiques
+prelevement_viol,MLT_L ,1,N012N08 ,,Prélèvements médicaux et médico-légaux en cas de viol
+score_wells_tvp,MCA ; MVA ; PNE ,1,N226N04 ,,Score de probabilité clinique de la TVP
+mecanisme_anomalie_gazo,PNE ,0,N208N09 ,,Mécanismes des anomalies gazométriques (En cours de rédaction ✍️)
+caracteristiques_randomisation,LCA ; LCA12 ; SPU_SPU ,1,N323N14 ,,Caractéristiques de la randomisation
+invalidite,SPU_SPU ; MPR ,0,N019N13 ,,Invalidité
+fdr_cancer_vessie,ONC ; URO ,0,N314N02 ,,Facteurs de risque de cancer de la vessie
+semiologie_ectoparasitoses,DVE ,0,N171N04 ,,Sémiologie des ectoparasitoses
+rituximab,HEM ; RHU ; IMM ,0,N294N15 ; N202N03 ,,L’essentiel à savoir sur le rituximab
+diag_schizophrenie,PSY ,0,N063N03 ,,Diagnostic d’une schizophrénie et troubles apparentés
+img,MLT_L ; GYO ,0,N009N14 ,,Interruption médicale de grossesse (IMG)
+etiologies_cephalees_explosives,NEU ,1,N100N03 ,,Causes de céphalées explosives
+pneumonie_abcedee,MIT ; PNE ,0,N154N10 ,,Pneumonie abcédée 
+prescription_psychostimulants,PSY ,0,N074N25 ,,Prescription des psychostimulants (En cours de rédaction ✍️)
+semiologie_myoclonie,NEU ,0,N107N01 ,,Sémiologie des mouvements anormaux : myoclonie
+epilepsie_temporale,NEU ,0,N105N07 ,,Épilepsie temporale médiale 
+enmg_neuropathies,NEU ,0,N096N12 ,,ENMG des neuropathies les plus fréquentes (En cours de rédaction ✍️)
+phases_soins_maladie_chronique,ARE ,0,N139N01 ,,Phases de soin d’une maladie chronique évolutive
+transmission_dermatophytes,DVE ,1,N155N03 ,,Transmission des dermatophytes
+ttt_cystite,MIT ,1,N161N10 ,ttt_cystite ,Prise en charge médicamenteuse et non médicamenteuse d’une cystite
+diag_diabete,EDN ,0,N247N01 ,,Diagnostic de diabète sucré
+nomenclature_acrosyndromes,MII ,1,N239N01 ,,Nomenclature des acrosyndromes
+diag_sd_nephrotique,NEP ,0,N259N06 ,,Diagnostiquer un syndrome néphrotique
+complications_lithiase_biliaire,HGE ; CVD ,1,N277N04 ,,Complications de la lithiase biliaire
+bilan_dmo_basse,RHU ,0,N128N05 ,,Bilan de densitométrie osseuse basse
+epilepsie_crises_tonicocloniques_seules,NEU ,0,N105N15 ,,Epilepsie avec crises tonicocloniques seules (autrefois dites du réveil)
+surveillance_mtx,RHU ,0,N196N08 ,,Surveillance d’un traitement par méthotrexate
+embolie_graisseur,COT ,0,N334N40 ,,Embolie graisseuse
+responsabilites_medicales,MLT_L ; SPU_SPU ,0,N005N01 ,,Récapitulatif des responsabilité médicales
+orientation_epidemiologie_analytique,SPU_SPU ; LCA ; LCA12 ,0,N020N18 ,,S’orienter en épidémiologie analytique
+prurit_sine_materia,DVE ,0,N116N09 ,,Prurit sine materia
+dossier_medical,MLT_L ,1,N007N07 ,,Dossier médical
+utilisation_bisphosphonates,RHU ,0,N128N08 ,,Précautions d’utilisation des biphosphonates
+diag_lofgren,PNE ; MII ,1,N211N05 ,,Diagnostiquer un syndrome de Löfgren
+etiologie_hypotension_orthostatique,GER ,0,N131N16 ; N131N17 ,,Étiologies de l’hypotension orthostatique
+prevalence_hlab27,RHU ,0,N197N03 ,,Prévalence de HLA-B27 
+michon_sokolow_phlegmon,COT ,1,N349N10 ,,Classification de Michon-Sokolow
+objectif_hemoglobine_transfusion,HEM ,0,N329N04 ,,Objectifs d’hémoglobinémie dans la transfusion
+anticoagulants_chirurgie,TPT ,0,N322N11 ,,Anticoagulants et chirurgie
+examen_aptitude,MLT_L ,0,N183N04 ,,Examen médical d’aptitude avant l’embauche
+osteonecrose_aseptique,RHU ,0,N200N09 ,,Ostéonécrose aseptique (ONA)
+etiologie_thrombocytoses,HEM ,0,N212N01 ,,Étiologies des thrombocytoses 
+coarctation_aorte,MCA ; PED ,0,N238N04 ,,Coarctation de l’aorte
+etiologies_palpitations,MCA ,0,N237N05 ; N237N06 ; N237N07 ; N237N08 ; N237N09 ,,Etiologies des palpitations
+irm_meningoencephalite,MIT ; NEU ,0,N151N11 ,,Anomalies IRM aiguës et séquellaires d’une méningo-encéphalite herpétique
+ci_pbh,HGE ,0,N276N06 ,,Contre-indications à la ponction-biopsie hépatique (PBH)
+valeur_energetique_macronutriments,NUT ,0,N248N12 ,,Valeur énergétique des macronutriments
+classification_robbins,ORL ,0,N298N01 ,,Classification de Robbins
+ttt_surdosage_opioides,DSP ,0,N135N07 ,,Prise en charge d’un surdosage en opioïdes
+semiologie_compressions_posturales,NEU ; RHU ,0,N095N15 ; N095N16 ,,Sémiologie des compressions nerveuses posturales
+stades_nephropathie_diabetique,EDN ,0,N247N12 ,,Stades de la néphropathie diabétique (En cours de rédaction ✍️)
+insuffisance_cardiaque_droite,MCA ,1,N234N05 ,,Insuffisance cardiaque droite
+diag_tachycardie_ventriculaire,MCA ,1,N231N19 ,,Diagnostiquer une tachycardie ventriculaire
+etiologies_hypotension_cerebrale,NEU ,0,N100N01 ,,Étiologies des hypotension cérébrales
+rmm,SPU_SPU ,0,N006N07 ,rmm ,Réunion de morbidité et de mortalité (RMM)
+luxation_hanche_prothetique,COT ,0,N362N05 ,,Luxation de hanche prothétique
+depistage_t21,PED ,1,N045N05 ,,Dépistage de la trisomie 21
+tpe,MIT ,0,N366N06 ,,Traitement antirétroviral post-exposition
+responsabilite_disciplinaire,MLT_L ; SPU_SPU ,0,N005N05 ,,Responsabilité disciplinaire
+choc_toxinique_staph,DVE ,1,N164N03 ,,Choc toxinique staphylococcique
+responsabilite_sans_faute,MLT_L ; SPU_SPU ,0,N005N06 ; N325N20 ,,Responsabilité sans faute prouvée et indemnisation
+controle_asthme,PNE ,1,N188N08 ,,Évaluer le contrôle de l'asthme
+semio_confusion,NEU ,1,N343N03 ,,Sémiologie du syndrome confusionnel
+semiologie_tic,NEU ,0,N107N01 ,,Sémiologie des mouvements anormaux : tic
+objectif_hba1c,EDN ,1,N247N23 ,ttt_diabete ,Objectifs d’HbA1c chez le diabétique
+diag_biermer,HEM ; HGE ,0,N213N07 ,,Diagnostic de maladie de Biermer
+biais_cas_temoins,LCA ; LCA12 ; SPU_LCA ,0,N020N18 ,,Biais liés au recrutement des études cas-témoins
+critere_dependance,PSY ,0,N076N02 ; N077N03 ; N078N11 ,,Critères CIM-10 de la dépendance
+surveillance_heparines,TPT ; HEM ,0,N330N07 ,,Surveillances des héparines
+causes_bav_progressive,OPH ,1,N081N01 ,,Étiologies des principales causes de baisse d’acuité visuelle progressive
+consequence_aspergillus,MIT ; PNE ,0,N191N04 ,,Conséquences de l’infection à Aspergillus fumigatus 
+complications_pbh,HGE ,0,N276N06 ,,Complications de la ponction-biopsie hépatique
+diag_saos,NEU ; PNE ,0,N110N13 ,,Diagnostic d’un syndrome d’apnées obstructives du sommeil (SAOS)
+bilan_anemie,HEM ,0,N213N07 ,,Bilan de première intention d’une anémie
+bilan_hypercalcemie,NEP ; EDN ,0,N268N06 ,,Bilan d’hypercalcémie
+syncope_cardiogenique_ecg,MCA ,0,N342N11 ,,Syncopes cardiogéniques et ECG
+qualification_transformation_cgr,HEM ,0,N329N05 ,,Qualifications et transformations des CGR
+acces_douloureux_paraxystique,DSP ,0,N134N09 ,,Accès douloureux paroxystique (ADP)
+ttt_cancer_poumon,ONC ; PNE ,0,N309N11 ,,Traitement du cancer du poumon
+exantheme_subit,DVE ; PED ,0,N164N07 ,,Exanthème subit du nourrisson 
+bilan_antipsychotiques,PSY ,0,N074N05 ,,Bilan pré-thérapeutique des antipsychotiques
+nevralgie_obturatrice,GYO ,0,N300N06 ; N044N05 ,,Névralgie obturatrice
+terminologie_risque_infectieux,SPU_SPU ,0,N004N08 ; N004N10 ; N004N11 ; N004N12 ; N004N13 ,,Terminologie de la prévention du risque infectieux sur les surfaces
+pathologies_tabac,MCA ; PSY ,1,N075N16 ,,Pathologies d’association négative avec le tabagisme
+antitnf_tuberculose,MIT ; PNE ,0,N159N03 ,,Anti-TNFα et tuberculose (En cours de rédaction ✍️)
+prick_tests,DVE ; PNE ; IMM ,0,N186N13 ,,Modalités et interprétation des prick-tests
+ataxie_cerebelleuse,NEU ,0,N109N04 ,,Ataxie cérébelleuse
+pnns_nutrition,NUT ,0,N248N09 ,pnns ; pnns_activite_physique ,Programme national nutrition santé (PNNS)
+caracteristique_cjp,LCA ; LCA12 ; SPU_SPU ,1,N323N21 ,,Caractéristiques du critère de jugement principal (CJP)
+prevention_infections_opportunistes_vih,MIT ,1,N169N08 ,,Prévention des infections opportunistes d’un patient positif au VIH
+diag_ta,PSY ,0,N066N60 ; N066N63 ,,Diagnostic d’un trouble de l’adaptation (TA)
+recueil_prospectif_retrospectif,SPU_SPU ; LCA ; LCA12 ,1,N020N18 ,,Recueil prospectif ou rétrospectif ?
+eradication_pylori,HGE ,0,N272N13 ,,Éradication de Helicobacter pylori
+methotrexate_geu,GYO ,0,N025N11 ,,Méthotrexate et grossesse extra-utérine
+itt_penal,MLT_L ,0,N013N03 ,,L’ITT au sens du Code pénal
+anatomie_orbite,CMF ,1,N335N17 ,,Anatomie osseuse de l’orbite
+polyglobulie_secondaire,HEM ,0,N317N04 ,,Polyglobulie secondaire
+thrombopenie_grave,HEM ,0,N214N07 ,,Signes de gravité d’une thrombopénie
+prevention_asplenie,MIT ; MII ,1,N146N08 ,,Prévention du risque infectieux chez le patient asplénique
+ttt_hypotension_orthostatique,GER ,0,N131N18 ,,Prise en charge de l’hypotension orthostatique
+ei_cyclophosphamide,ONC ; TPT ,1,N294N13 ,,Effets indésirables du cyclophosphamide
+hypersplenisme_hemogramme,HEM ,0,N275N05 ,,Hémogramme de l’hypersplénisme
+tih_type_2,TPT ; HEM ,0,N330N07 ,,Thrombopénie induite par l’héparine (TIH) de type 2
+requisition,MLT_L ,0,N012N05 ,,Réquisition judiciaire
+visite_reprise,MLT_L ,0,N182N02 ,visite_reprise_prereprise ,Visite de pré-reprise
+risque_alloimmunisation,GYO ,0,N027N28 ,,Allo-immunisation anti-érythrocytaire
+antibiotherapie_infections_cutanees,MIT ; DVE ; HGE ; ORL ; GYO ,0,N177N25 ; N154N13 ; N152N15 ; N149N07 ; N148N08 ; N150N06 ; N161N10 ; N161N11 ; N161N12 ; N161N14 ; N161N15 ; N161N16 ; N155N09 ; N155N10 ; N155N19 ; N155N30 ; N155N34 ; N272N13 ; N287N10 ; N162N16 ,pec_infections_bacteriennes ,Antibiothérapie des infections bactériennes cutanées courantes
+diag_ttt_sevrage_alcoolique,PSY ; NEU ,1,N076N07 ; N076N17 ,,Diagnostic et prise en charge du sevrage alcoolique
+allongement_tp_tca,HEM ,1,N216N07 ,,Allongement isolé du temps de Quick ou du temps de céphaline activée
+bilan_chute,GER ,1,N131N10 ; N131N11 ,,"Paraclinique de la chute de la personne âgée (HAS, 2009) "
+coma_ethylique,NEU ,0,N076N08 ,,Coma éthylique
+diag_tp,PSY ,0,N066N22 ,,Diagnostic d’un trouble panique (TP)
+strategie_radio_fracture,COT ,1,N334N38 ,,Stratégie radiologique à la recherche d’une fracture périphérique
+ttt_lupus,NEP ; MII ,0,N194N15 ,,Principes de prise en charge du lupus systémique
+tamponnade,MCA ,1,N235N15 ,,Tamponnade péricardique
+semio_cushing,EDN ,0,N244N02 ,,Sémiologie d’un syndrome de Cushing 
+west,NEU ,0,N105N14 ,,Syndrome de West
+bilan_tuberculose_pretherapeutique,MIT ; PNE ,1,N159N14 ,,Bilan pré-thérapeutique d’une tuberculose maladie
+objectif_design_epidemio,SPU_SPU ; LCA ; LCA12 ,1,N020N06 ,,Objectif et design d’une étude épidémiologique
+hydratation_diarrhee_enfant,PED ,0,N286N14 ,,Hydratation dans le contexte de diarrhée aiguë chez l'enfant
+complications_smp,HEM ,0,N317N03 ,,Complications des syndromes myéloprolifératifs
+litigieux,,1,,,🌀 Proposition  litigieuse
+aag_endoprothese_coronaire,MCA ,0,N339N11 ; N339N12 ,,Antiagrégation plaquettaire et endoprothèse coronaire  (En cours de rédaction ✍️)
+aag_chirurgie,TPT ,0,N330N06 ; N322N11 ,,Antiagrégants plaquettaires et chirurgie
+validite_interne_externe_pertinence,LCA ; LCA12 ; SPU_SPU ,1,N323N20 ; N323N18 ; N323N19 ,,"Validité interne, validité externe et pertinence clinique"
+radio_distension_thoracique,PNE ,0,N188N11 ,,Sémiologie radiologique de la distension thoracique
+kleihauer,GYO ,0,N027N28 ; N027N29 ,,Test de Kleihauer
+odontologie,CMF ,0,N335N07 ; N047N16 ; N047N17 ; N047N18 ; N047N19 ; N047N20 ,,Odontologie
+information_mineurs,MLT_L ,1,N007N04 ,,Information des mineurs
+demence_frontale,NEU ,0,N132N14 ,,Démence frontale : dégénérescence lobaire frontotemporale
+ei_5fu,ONC ; TPT ,1,N294N13 ,,Effets indésirables du 5-fluoro-uracile (5-FU)
+semiologie_angiome_veineux,DVE ; CMF ,0,N113N05 ,,Sémiologie d’un angiome veineux
+precautions_contact,MIT ; SPU_SPU ,0,N004N44 ,precautions_contact ,Précautions “contact”
+ttt_tdah,PSY ,0,N067N06 ,,Prise en charge d’un trouble déficit de l’attention avec hyperactivité (TDAH) 
+phenotype_gastrite_pylori,HGE ,0,N272N16 ,,Phénotypes de la gastrite à Helicobacter pylori
+criteres_vulnerabilite,MLT_L ,0,N012N04 ,,"Critères de vulnérabilité selon le Code pénal, implications"
+consequence_metabo_lyse_cellulaire,NEP ; MIR ,0,N348N14 ,,Conséquences métaboliques d’une lyse cellulaire étendue 
+syncope_epilepsie,NEU ; MCA ,1,N342N03 ,,Distinguer syncope et crise épileptique
+pronostic_hemopathies,HEM ,0,N316N06 ,,Facteurs pronostiques des hémopathies 
+aveugle_lca,LCA ; LCA12 ; SPU_LCA ,1,N323N15 ,,Procédure d’aveugle
+diag_edc,PSY ,0,N066N08 ,,Diagnostic d’un épisode dépressif caractérisé (EDC)
+cat_morsure,MIT ; CMF ,0,N173N13 ,,Conduite à tenir devant une morsure d’animal
+investigateur_promoteur,MLT_L ; SPU_SPU ,0,N020N03 ,,Investigateur et promoteur d’une recherche impliquant la personne humaine
+virologie_hsv,MIT ,0,N168N14 ,,"Confirmation virologique de l’infection à HSV, indications et modalités "
+bilan_extension_cancer_gyneco,ONC ; GYO ,0,N300N14 ; N300N08 ; N312N11 ; N306N07 ,,BIlan d’extension des cancers gynécologiques
+interpretation_gds,PNE ,0,N359N09 ; N203N07 ,,Interpréter un gaz du sang
+justification_etude,SPU_SPU ; LCA ; LCA12 ,1,N020N04 ,,Justification d’une étude
+ecg_kaliemie,NEP ; MCA ,1,N231N22 ,,ECG et troubles de la kaliémie
+ulcere_realimentation,HGE ,0,N272N13 ,,Ulcère gastro-duodénal et réalimentation
+personne_confiance,MLT_L ,0,N009N08 ,,Personne de confiance
+syndromes_cliniques_medullaires,NCU ; NEU ,0,N093N02 ,,Syndromes médullaires
+bilan_metabo_lithiase,NEP ; URO ,1,N265N12 ,,Bilan métabolique et lithogénèse
+anatomie_muscles_main,COT ; NEU ,0,N095N16 ,,Anatomie des muscles intrinsèques de la main
+ei_dermocorticoides,DVE ,0,N187N12 ,,Effets indésirables des dermocorticoïdes
+troubles_marche,NEU ,0,N109N04 ; N131N06 ,,Troubles de la marche caractéristiques
+categories_riph,MLT_L ,0,N009N22 ,,Catégories de recherche impliquant la personne humaine
+ponction_liquide_articulaire,RHU ,0,N200N06 ,,Ponction de liquide articulaire (PLA)
+diag_extrasystole_atriale,MCA ,1,N237N05 ,,Diagnostiquer des extrasystoles atriales (En cours de rédaction ✍️)
+bilan_biotherapie,RHU ; IMM ,1,N202N06 ,,Bilan pré-biothérapie
+aomi_diabete,MCA ; MVA ,0,N225N03 ,,AOMI du diabétique
+stratification_risque_cv,MCA ,0,N222N05 ,fdr_cv ,Stratification du risque cardiovasculaire (ESC 2021)
+vaccination_voyageur,MIT ,1,N175N05 ,,Vaccination du voyageur
+notation_qrp,,0,,regles_notation_edn ,Notation des QRU et des QRP
+innervation_median_ulnaire,NEU ; RHU ,1,N095N15 ,,Innervation motrice du nerf médian et du nerf ulnaire
+fractures_sacrum,MPR ,0,N128N01 ,,Fracture du sacrum
+concordance_electroanatomique,MCA ,0,N339N06 ,,Concordance électro-anatomique (En cours de rédaction ✍️)
+korsakoff,NEU ,0,N076N12 ,,Syndrome de Korsakoff
+semiologie_dystonie,NEU ,0,N107N01 ,,Sémiologie des mouvements anormaux : dystonie (En cours de rédaction ✍️)
+mmrc,PNE ,1,N203N02 ,,Échelle mMRC
+collyres,OPH ,1,N085N06 ; N084N15 ; N083N02 ,,"Les collyres myotiques, mydriatiques et cycloplégiques"
+bilan_rachialgie,RHU ,0,N094N06 ,pec_lombalgie ,Stratégie d’exploration radiologique d’une rachialgie 
+stratification_a_priori_posteriori,SPU_SPU ; LCA ; LCA12 ,0,N020N26 ,,Stratification a priori ou stratification a posteriori ?
+insuline,EDN ,1,N330N14 ,,"Insuline, analogues de l’insuline et modalités de suivi d’un traitement insulinique"
+implication_etude,,0,,,Implication d’une étude
+tableau_figure_lca,,0,,,D’après le tableau ou la figure 
+stratification_randomisation,LCA ; LCA12 ; SPU_SPU ,1,N323N14 ,,Stratification de la randomisation
+facteurs_confusion,SPU_SPU ; LCA ; LCA12 ,1,N020N26 ,,Facteur de confusion
+semiologie_dra,PNE ; MIR ,0,N359N02 ,,Sémiologie d’une détresse respiratoire aiguë
+semiologie_dermatite_atopique,DVE ; IMM ,0,N187N09 ,,Sémiologie de la dermatite atopique
+epilepsie_absence,NEU ,0,N105N15 ,,Epilepsie-absence de l’enfant 
+regime_insuffisance_renale_chronique,NEP ,1,N264N15 ; N264N17 ,irc_has ,Régime alimentaire chez un insuffisant rénal chronique
+technique_chir_bariatrique,NUT ,0,N253N12 ,,Techniques de chirurgie bariatrique
+information_medicale,MLT_L ,0,N007N04 ,,Information médicale du patient 
+vhb_vhc_extrahepatique,HGE ; MIT ,0,N167N07 ,,Manifestations extra-hépatiques des infections au VHB et au VHC
+atb_pac,MIT ; PNE ,1,N154N13 ,,Antibiothérapie d’une pneumonie aiguë communautaire
+suivi_palu,MIT ,0,N170N09 ,,Suivi d’un patient traité pour paludisme
+approche_bayesienne,SPU_LCA ,0,N020N33 ,,Approche bayésienne du raisonnement médical
+orientation_trouble_hemostase,HEM ,0,N216N03 ,,Orientation clinique vers une pathologie de l’hémostase primaire ou de la coagulation
+classification_aomi,MCA ; MVA ,0,N225N03 ,,Classifications de l’AOMI
+etiologie_hyperferritinemie,HEM ,0,N219N11 ,,Étiologies d’hyperferritinémie
+ei_platines,ONC ; TPT ,0,N294N13 ,,Effets indésirables des sels de platine
+pec_gale,DVE ; MIT ,1,N171N11 ; N171N12 ; N171N13 ,,Prise en charge d’une gale commune ou profuse
+syndrome_guillain_barre,NEU ,0,N097N02 ,,Syndrome de Guillain Barré : Forme démyélinisante vs forme axonale de type AMAN
+pseudarthrose_retard_consolidation,COT ,0,N362N03 ,,Retard de consolidation et pseudarthrose 
+semiologie_sla,NEU ,0,N096N05 ,,Sémiologie clinique de la sclérose latérale amyotrophique (SLA)
+hydrocephalie_chronique,NEU ,0,N131N04 ,,Hydrocéphalie chronique
+achalasie,HGE ,1,N273N06 ,,Achalasie du sphincter inférieur de l’oesophage (SIO)
+champ_visuel,OPH ,0,N082N14 ,,Anomalies du champ visuel 
+bloc_sinoatrial,MCA ,0,N236N01 ,,Bloc sinoatrial 
+pouls_paradoxal,MCA ,1,N235N03 ; N235N15 ,,Pouls paradoxal
+semiologie_tttt_pneumocystose,MIT ,0,N169N07 ,,Tableau clinique et prise en charge de la pneumocystose pulmonaire
+sbau,URO ,0,N125N01 ,,Symptômes du bas appareil urinaire
+pec_precoce_avc,NEU ,0,N340N15 ; N340N16 ,,Mesures générales de prise en charge de l’AVC en phase précoce
+sevrage_tabac,MCA ; PSY ; PNE ,1,N075N26 ,,Sevrage tabagique
+examens_complementaires_insuffisance_cardiaque,MCA ,0,N234N10 ,,Place des examens complémentaires dans le diagnostic d’insuffisance cardiaque
+diag_flutter,MCA ,0,N231N15 ,,Diagnostiquer un flutter atrial (En cours de rédaction ✍️)
+bilan_vhb,HGE ; MIT ,0,N167N06 ,,Bilan biologique initial d’une infection chronique au VHB
+ei_nephro_ains,NEP ,1,N322N05 ,,Effets indésirables néphrologiques des AINS
+gnrp,NEP ,0,N261N14 ,,Glomérulonéphrite rapidement progressive
+crises_myocloniques,NEU ,0,N105N07 ,,Crises myocloniques
+obstacle_medicolegal,MLT_L ,0,N013N16 ,,Obstacle médico-légal (OML)
+fdr_pre_eclampsie,GYO ,0,N344N03 ,,Facteurs de risque de pré-éclampsie
+perturbation_bio_cushing,EDN ,0,N267N21 ,,Perturbations biologiques dans un syndrome de Cushing
+fdr_cancer_poumon,ONC ; PNE ,1,N309N03 ; N309N02 ,,Facteurs de risque du cancer du poumon
+souffle_benin,MCA ; PED ,0,N238N01 ,,Caractéristiques d’un souffle bénin
+consultation_visite_preanesthesique,ARE ; DSP ,0,N136N04 ,,Consultation pré-anesthésique (CSPA) et visite pré-anesthésique
+gestes_urgence_hemorragie_grave,HEM ; TPT ,1,N332N09 ,,Gestes en urgence devant une hémorragie grave
+antigenurie_pac,MIT ; PNE ,0,N154N08 ,,Indications à l’antigénurie pneumococcique ou légionelle 
+risque_infection_neonat,PED ,0,N032N07 ,,Situations à risque d’infection néonatale bactérienne précoce (INBP)
+syndrome_syringomyelique,NCU ; NEU ,0,N093N08 ,,Syndrome syringomyélique
+fdr_dhbnn,DVE ,0,N155N12 ,pec_infections_bacteriennes ,Facteurs de risque d’érysipèle (DHBNN)
+bilan_aphasie,NEU ,0,N108N12 ,,Évaluation d’une aphasie
+formulations_recurrentes,,0,,,Formulations récurrentes des questions 
+anesthesie_locoregionale,ARE ,0,N136N07 ,,Anesthésie loco-régionale (ALR)
+pec_surdosage_avk,TPT ; HEM ,1,N330N08 ,,Prise en charge d’un surdosage asymptomatique ou d’une hémorragie sous AVK
+neuropathie_traumatique_enmg,NEU ,0,N096N12 ,,Neuropathie traumatique et ENMG
+desaccord,,0,,,❌ Désaccord avec le décodage des corrections
+hypercalcemie_insuffisance_renale,NEP ; EDN ,0,N264N19 ,,Hypercalcémie et insuffisance rénale 
+etiologie_myodesopsie_phosphene_metamorphopsie,OPH ,0,N082N15 ; N082N16 ; N082N17 ,,"Étiologies des myodésopsies, des phosphènes et des métamorphopsies"
+prophylaxie_palu,MIT ,0,N170N11 ; N170N12 ,,Prophylaxie antipalustre
+bilan_extension_cancer_prostate,ONC ; URO ,1,N310N07 ,,Bilan d’extension du cancer de la prostate selon le risque
+diag_erythrodermie,DVE ,0,N114N02 ,,Diagnostiquer une érythrodermie
+personne_temps_incidence,SPU_SPU ; LCA ; LCA12 ,0,N020N20 ,,Notion de personne-temps et calcul du taux d’incidence
+silverman,PED ,1,N032N07 ,,Score de Silverman
+precautions_standard,SPU_SPU ,0,N004N43 ,,Précautions d’hygiène standard
+etat_lacunaire,NEU ,0,N131N19 ; N131N10 ,,État lacunaire
+anticoagulants_gestes_invasifs,TPT ,0,N330N08 ; N330N07 ; N322N11 ,,Anticoagulants et gestes invasifs (En cours de rédaction ✍️)
+diag_smp,HEM ,0,N317N04 ,,Diagnostic d’un syndrome myéloprolifératif
+acces_precoce_compassionnel,TPT ,0,N325N08 ,,L’accès précoce et l’accès compassionnel
+prevention_mtev,MCA ; MVA ; PNE ,0,N226N13 ,,Prophylaxie de la MTEV
+fdr_cancer_rein,ONC ; URO ,1,N311N02 ,,Facteurs de risque de cancer du rein
+bilan_malaise_nourrisson,PED ,0,N345N07 ,,Bilan systématique devant un malaise du nourrisson
+critere_hospit_pac,MIT ; PNE ,1,N154N06 ,,Critères d’hospitalisation et signes de gravité d’une pneumonie aiguë communautaire
+ei_radiotherapie_cervicale,ONC ; CMF ,0,N294N07 ,,Effets indésirables à long terme de la radiothérapie cervicale
+diag_trouble_neurocognitif,NEU ; GER ,0,N108N02 ; N132N01 ,,Critères diagnostiques d’un trouble neurocognitif selon le DSM 5
+critere_diag_spa,RHU ,0,N197N07 ,,Critères de l’ASAS 2009 pour le diagnostic de spondyloarthropathie axiale
+signes_ictere_neonatal_pathologique,PED ,0,N278N01 ,,Signes orientant vers un ictère néonatal pathologique
+developpement_staturo_ponderal,PED ,0,N053N01 ,,Paramètres vitaux et valeurs du développement staturo-pondéral chez l’enfant
+analgesie_multimodale,ARE ; DSP ,0,N135N08 ,,Analgésie multimodale
+biochimie_ascite,HGE ,1,N280N03 ,,Biochimie du liquide d’ascite
+bilan_hypogamma,MII ,0,N189N07 ,,Bilan étiologique d’une hypogammaglobulinémie
+complications_angines_streptococciques,MIT ,1,N149N10 ; N149N11 ,,Complications des angines streptococciques
+nerfs_craniens_ix_x,ORL ; NEU ,0,N298N05 ,,Nerfs crâniens mixtes IX et X
+ei_taxanes,ONC ; TPT ,0,N293N01 ,,Effets indésirables des taxanes
+semiologie_syndrome_vestibulaire,NEU ; ORL ,1,N103N07 ,,Sémiologie des syndromes vestibulaires
+extension_metastases_localisations,ONC ,0,N291N01 ,,Extension hématogène et localisation des métastases
+pec_zona,MIT ; DVE ,0,N168N15 ,pec_paralysie_faciale ,Prise en charge d’un zona
+leucemie_aigue_clinique_bio,HEM ,1,N315N05 ,,Manifestations clinico-biologiques d’une leucémie aiguë
+types_mutations,GEN ,0,N046N02 ,,Types de mutations
+definitions_hemorragie_digestive,HGE ,0,N355N01 ,,Définitions des types d’hémorragie digestive
+test_diagnostique,SPU_SPU ,1,N020N33 ,,Performances informationnelles d’un test diagnostique
+drainage_lymphatique_pelvis,CVD ,0,N220N03 ,,Territoires du drainage lymphatique (En cours de rédaction ✍️)
+cat_aes,MIT ,0,N366N04 ,,Conduite à tenir en urgence devant un accident d’exposition au sang
+depistage_vih,MIT ,1,N169N12 ,depistage_vih ,Stratégie de dépistage de l’infection par le VIH
+pathologies_sida,MIT ,1,N169N05 ,,Pathologies classant SIDA
+fractures_osteoporose,RHU ,0,N128N01 ,," Fractures sévères, majeures et non ostéoporotiques"
+semio_traumatisme_medullaire,NCU ; COT ,0,N334N47 ; N334N44 ; N334N45 ; N334N48 ,,Manifestations cliniques d’un traumatisme médullaire
+censure,SPU_SPU ; LCA ; LCA12 ,0,N020N13 ,,Censure à droite
+calcul_nsn,LCA ; LCA12 ; SPU_SPU ,1,N020N25 ,,Calcul du nombre de sujets nécessaire (NSN)
+anton_babinski,NEU ,0,N340N05 ,,Syndrome d’Anton-Babinski
+glossite,DVE ; MIT ; HGE ; HEM ,1,N155N02 ,,Glossite
+precarite_couverture,SPU_SPU ; PSY ,1,N059N11 ; N174N04 ,,"Couverture médicale des personnes en situation de précarité : AME, PUMA, CSS"
+pec_rau,URO ,0,N347N11 ,,Prise en charge d’une rétention aiguë d’urine 
+diag_retinopathie_diabetique,OPH ; EDN ,0,N247N11 ,,Diagnostiquer une rétinopathie diabétique (En cours de rédaction ✍️)
+sd_mononucleosique,HEM ; MIT ,0,N217N01 ; N217N05 ; N217N06 ; N217N02 ,sd_mononucleosique ,Définition du syndrome mononucléosique
+types_histologiques_oncologie,ONC ; ACP ,0,N292N09 ; N292N10 ,,Principaux types histologiques en oncologie
+oncogenese_lesions_epitheliales,ONC ; ACP ,0,N291N05 ,,Oncogénèse des lésions épithéliales
+analyses_prelevement_anapath,ONC ; ACP ,0,N293N01 ; N293N04 ; N293N05 ,,Types d’analyse appliquées aux prélèvements en anatomopathologie
+prelevement_anapath,ONC ; ACP ,0,N293N01 ,,Types de prélèvements en anatomopathologie
+types_histologiques_cancers,ONC ; ACP ,0,N292N10 ,,Types histologiques des principaux cancers
+pec_parkinson,NEU ; MPR ,0,N106N09 ,,Prise en charge non médicamenteuse de la maladie de Parkinson
+histologie_sarcoidose,PNE ; ACP ; MII ,1,N211N12 ,,Diagnostic histologique de la sarcoïdose 
+types_histologiques_principaux_cancers,ONC ; ACP ,1,N292N10 ; N292N09 ,,Types histologiques des principaux cancers
+cortico_meningite,MIT ; NEU ,1,N151N15 ,,Indications de la corticothérapie dans les méningites purulentes
+fdr_meningite_pneumocoque,MIT ; NEU ; PNE ,0,N151N04 ,,Facteurs favorisant les infections invasives à pneumocoque
+mesures_meningocoque,MIT ; NEU ,0,N151N19 ,,Mesures complémentaires des méningites à méningocoque
+fdr_escarres,MPR ; GER ,1,N120N08 ,,Evaluation du risque d’escarres
+complications_immobilite_décubitus,MPR ,0,N120N03 ; N120N04 ,,Principales complications de l’immobilité et du décubitus
+tremblement_essentiel_parkinson,NEU ,1,N107N01 ,,Distinction entre tremblement essentiel et tremblement parkinsonien
+directives_anticipees,MLT_L ; DSP ,0,N007N10 ,,Directives anticipées
+etiologie_hypoglycemie,EDN ; PED ,0,N240N06 ,,Étiologies d’hypoglycémie (En cours de rédaction ✍️)
+fdr_eblse,MIT ; URO ,0,N161N02 ,atb_enterobacteries ,Facteurs de risque d’infections à EBLSE
+avis_uro,URO ,0,N127N09 ,hbp_reco_afu ,Situations nécessitant un avis urologique
+performance_status,ONC ,0,N294N08 ,,Indice d’activité (performance status) selon l’OMS
+alerte_dih,MII ,0,N189N03 ,pnds_dip ,Signes d’alerte d’un déficit immunitaire héréditaire
+thalassemies,HEM ; GEN ,0,N213N07 ,pnds_thalassemies ,Les thalassémies
+etiologie_pnn_hyper,HEM ; PED ,0,N212N06 ,,Étiologies de polynucléose neutrophile
+pec_anaphylaxie,MIR ,0,N338N06 ; N338N07 ; N338N08 ; N338N09 ; N338N10 ,,Prise en charge d’une anaphylaxie
+pronostic_cancers_cutanes,DVE ,0,N302N06 ; N302N12 ,,Facteurs de mauvais pronostic des carcinomes cutanés
+physiologie_parathormone,EDN ; RHU ; NEP ,0,N268N03 ,,Actions biologiques de la parathormone
+drainage_sinus,ORL ,0,N148N01 ,,Zones de drainage des sinus de la face
+semio_tumeur_pancreas,HGE ,1,N308N03 ,,Sémiologie d’une tumeur du pancréas
+bilan_infertilite,URO ; GYO ; EDN ,0,N038N07 ,,Bilan paraclinique d’une infertilité du couple
+pronostic_melanome,DVE ,0,N302N12 ,,Facteurs pronostiques du mélanome selon son stade 
+certificat_sportif,NUT ; MPR ,1,N256N01 ,,Indications du certificat de non contre-indication à la pratique sportive
+complications_hsa,NEU ,0,N336N03 ,,Complications de l’hémorragie sous-arachnoïdienne
+muscles_oculomoteurs,NEU ; OPH ,0,N102N01 ,,Caractéristiques des muscles oculomoteurs
+maladie_emboles_cholesterol,NEP ,0,N263N09 ; N263N10 ,,La maladie des emboles de cristaux de cholestérol
+methode_epp,SPU_SPU ,0,N004N50 ,,Méthodes d’évaluation des pratiques professionnelles
+declaration_obligatoire_tuberculose,MIT ; PNE ; PED ; SPU_SPU ,0,N159N16 ,hcsp_enquete_tuberculose ,Déclaration obligatoire de la tuberculose
+bilan_coagulation_sd_hemorragique,HEM ,0,N216N06 ,,Bilan de coagulation des syndromes hémorragiques
+acteurs_hemostase,HEM ,0,N216N02 ,,Acteurs de l’hémostase
+vaccin_bcg,MIT ; PNE ; SPU_SPU ,1,N159N17 ,,Prévention vaccinale de la tuberculose (BCG)
+recharge_fer,HEM ; HGE ,0,N219N18 ,,Modalités de la recharge en fer 
+indication_aag_anticoagulants_mai,RHU ; MII ,0,N330N06 ; N330N08 ,,Indications des anticoagulants ou des antiagrégants plaquettaires dans certaines pathologies auto-immunes
+syndrome_deficit_moteur,NEU ,0,N092N01 ,,Analyse syndromique d’un déficit moteur
+complications_laparotomie,HGE ; CVD ,0,N357N13 ,,Complications lors d’une laparotomie 
+recommandations_examens_pre_interventionnels,ARE ,0,N136N04 ,,Recommandations concernant les examens pré-interventionnels 
+semio_segments_rachidiens,RHU ,0,N197N07 ,,Examen clinique des différents segments rachidiens
+procedure_collegiale,DSP ,0,N009N19 ,,Procédure collégiale 
+caverne_pulmonaire,PNE ; MIT ,0,N159N11 ; N159N10 ,,Cavernes pulmonaires
+scolarite_enfant_handicape,PSY ; MPR ,0,N056N04 ,,Scolarité de l’enfant handicapé ou malade
+competences_graphiques_enfant,PED ,0,N055N03 ,,Compétences graphiques et visuo-praxiques de l’enfant entre 1 et 6 ans
+complications_metaboliques_diabete,EDN ,0,N247N16 ; N247N17 ,,Complications métaboliques du diabète : distinction entre coma cétoacidosique et coma hyperosmolaire
+semiologie_llc,HEM ,0,N318N03 ; N318N04 ,,Circonstances clinico-biologiques du diagnostic de LLC
+diag_bilan_llc,HEM ,0,N318N05 ,,Diagnostic positif de LLC et examens complémentaires 
+diag_nephropathie_iga,NEP ,1,N261N12 ,,Diagnostic positif de néphropathie à IgA
+diag_gem,NEP ,0,N261N11 ,,Diagnostic positif de GEM
+histologie_nephropathie_glomerulaire,NEP ,0,N261N07 ,,Principales caractéristiques histologiques des néphropathies glomérulaires
+semiologie_syphilis_precoce,DVE ; MIT ,0,N162N23 ,,Signes cliniques d’une syphilis précoce
+diag_dress,DVE ,1,N115N11 ,,Diagnostiquer un syndrome d’hypersensibilité médicamenteuse/DRESS syndrome
+diag_net,DVE ,1,N115N06 ,,Diagnostiquer une nécrolyse épidermique toxique (NET)
+imputabilite_toxidermie,DVE ,1,N115N10 ,,Imputabilité d’un médicament devant une manifestation cutanée
+fausse_positivite_vdrl,DVE ,0,N162N27 ,,Causes non tréponémiques de positivité du VDRL (fausses sérologies syphilitiques)
+dependance-tabac,PSY ; PNE ,0,N075N02 ,,Types de dépendance dans l’addiction tabagique
+diag_edc_populations,PSY ,1,N066N06 ; N066N07 ,,Spécificités sémiologiques du syndrome dépressif selon les populations
+ttt_cancer_sein,ONC ; GYO ,0,N312N12 ,,Principes thérapeutiques du cancer du sein
+prescription_isotretinoine,DVE ,0,N111N08 ,,Prescription d’isotrétinoïne
+semiologie_psoriasis,DVE ,1,N117N03 ,,Sémiologie clinique du psoriasis cutané
+ttt_psoriasis,DVE ,1,N117N09 ,,Principes de la prise en charge du psoriasis cutané
+semiologie_coxarthrose,RHU ,0,N129N07 ,,Sémiologie clinique de la coxarthrose
+semiologie_gonarthrose,RHU ,0,N129N07 ,,Sémiologie clinique de la gonarthrose
+ci_pratique_sport,NUT ; MPR ,1,N256N05 ,,Contre-indications à la pratique du sport
+ttt_escarres,MPR ; GER ,1,N120N06 ,,Prise en charge et complications des escarres
+diag_escarres,MPR ; GER ,1,N120N07 ,,Diagnostic clinique d’un escarre
+clinique_erythermalgie,DVE ; MII ,0,N239N02 ,,Aspects cliniques et étiologiques de l’érythermalgie/érythromélalgie
+mécanismes_défense_patient,DSP ; ARE ,0,N140N03 ,,Mécanismes psycho-adaptatifs de défense du patient atteint de maladie grave
+reperage_maltraitance,PED ; MLT_L ,1,N057N18 ,memo_maltraitance ,Repérage d’une maltraitance
+chocs_définitions_physiopath,MIR ,1,N332N01 ; N332N03 ,,"États de choc : définitions, types et physiopathologies"
+precarite_pauvrete_exclusion_marginalisation_vulnerabilite,SPU_SPU ; PSY ; MII ,0,N059N01 ; N059N02 ; N059N03 ; N059N04 ,,"Distinguer précarité, pauvreté, exclusion, marginalisation et vulnérabilité"
+dispositifs_medico_sociaux_precarite,SPU_SPU ; PSY ,0,N059N10 ,,Dispositifs médico-sociaux et structures associatives pour les personnes en situations de précarité
+bebe_secoue,PED ; MLT_L ,0,N057N05 ; N057N04 ,,Examens complémentaires en cas de suspicion de syndrome du bébé secoué
+fdr_cancer_sein,ONC ; GYO ,0,N312N02 ,,Facteurs de risque du cancer du sein
+causes_infertilite,URO ; GYO ,0,N038N09 ; N038N10 ,,Causes d’infertilité
+ttt_retinopathie_diabetique,EDN ; NEU ,0,N247N27 ,,Prise en charge de la rétinopathie diabétique (En cours de rédaction ✍️)
+neuropathies_diabetiques,EDN ; NEU ,1,N247N13 ,,Neuropathies diabétiques 
+tumeurs_cutanees,DVE ,0,N302N05 ,,Tumeurs cutanées épithéliales
+patho_procto,HGE ,0,N288N04 ; N288N06 ; N288N07 ,,Pathologie proctologique
+depistage_cancer_sein,ONC ,0,N312N05 ; N290N16 ; N290N26 ,,Modalités de dépistage du cancer du sein 
+depistage_ccr,ONC ,0,N301N06 ; N290N27 ,depistage_ccr ,Modalités de dépistage du cancer colo-rectal 
+ttt_epistaxis,ORL ,0,N087N07 ,,Stratégie thérapeutique devant une épistaxis 
+supplementation_vitamines_nouveau_ne,PED ,0,N032N06 ,,Supplémentation vitaminique du nouveau-né
+gravite_hemoptysie,PNE ,0,N205N03 ,,Evaluation de la gravité d’une hémoptysie
+trouble_personnalite_borderline,PSY ,0,N066N73 ,,Sémiologie du trouble de la personnalité borderline
+biologie_osteoporose,RHU ,0,N128N06 ,,Bilan biologique de 1e intention dans le cadre d’une suspicion d’ostéoporose
+diag_tsa,PSY ,1,N067N02 ; N067N01 ; N067N05 ,,Sémiologie et diagnostic des troubles du spectre de l’autisme
+ec_geu,GYO ,0,N025N06 ,,Examens complémentaires devant une suspicion de grossesse extra-utérine (En cours de rédaction ✍️)
+etiologies_hyponatremie,NEP ,0,N267N26 ,,Principales étiologies d’une hyponatrémie vraie (En cours de rédaction ✍️)
+clinique_t21,PED ; GEN ,0,N045N10 ,,Aspects cliniques de la trisomie 21
+confirmation_caryotype_t21,PED ; GEN ,0,N045N08 ,,Confirmation caryotypique du diagnostic de trisomie 21
+errance_impasse_diag,IMM ,0,N022N05 ,,Définitions de l’errance et de l’impasse diagnostiques
+clinique_x_fragile,PED ; GEN ,0,N045N18 ,,Aspects cliniques du syndrome de l’X fragile
+transmission_x_fragile,PED ; GEN ,0,N045N19 ,,Risque de transmission du syndrome de l'X fragile (En cours de rédaction ✍️)
+pathologies_premutation_fmr1,PED ; GEN ,0,N045N21 ,,Pathologies associées à la prémutation du gène FMR1 (En cours de rédaction ✍️)
+legislation_reglementation_tests_genetiques,GEN ,0,N009N27 ,,Dispositions législatives et réglementaires de prescription des examens des caractéristiques génétiques à visée diagnostique (En cours de rédaction ✍️)
+reglementation_tests_genetiques,GEN ,0,N009N27 ,,Modalités réglementaires de prescription des tests génétiques prédictifs chez l’individu asymptomatique (En cours de rédaction ✍️) 
+diag_presymptomatique_mineur,GEN ,0,N009N27 ,,Particularités du diagnostic présymptomatique chez le mineur 
+maladies_rares,IMM ,0,N022N01 ; N022N04 ,,Définition et épidémiologie des maladies rares
+arthralgies_orientation_diag,RHU ,0,N200N08 ,,Orientation diagnostique devant des arthralgies (En cours de rédaction ✍️)
+sd_malin_neuroleptiques,PSY ,0,N074N06 ,,Syndrome malin des neuroleptiques
+douleurs_abdo_enfants,PED ,0,N269N04 ,,Douleurs abdominales chez l’enfant
+sclérodermie,MII ,0,N239N04 ,,Sclérodermie
+utilisation_naloxone,MIR ,0,N337N11 ,,Utilisation de naloxone
+utilisation_flumazenil,MIR ,0,N337N12 ,,Utilisation de flumazénil
+intox_bzd_opioides,MIR ,0,N337N04 ,,Intoxication aux opiacés vs intoxication aux benzodiazépines
+sd_serotoninergique,PSY ,0,N074N11 ,,Syndrome sérotoninergique
+ttt_diverticulite,HGE ,0,N287N11 ; N287N10 ,pec_diverticulite ,Prise en charge médicale de la diverticulite aiguë
+score_spesi,PNE ; MCA ,1,N226N09 ,,Score sPESI
+stades_coma,NEU ,1,N336N03 ,,Stades du coma
+flow_chart,LCA ; LCA12 ; SPU_SPU ,1,N323N21 ,,Diagramme de flux
+notation_tcs,,1,,notation_docimologie ,Notation des TCS
+diagnostic_mort,MLT_L ,0,N013N14 ,,Diagnostic de mort
+ttt_sevrage_oh,PSY ,0,N076N20 ,,Médicaments du sevrage alcoolique (En cours de rédaction ✍️)
+fr_chute,GER ,0,N131N07 ,,Facteurs de risque d’une chute chez la personne âgée
+etiologie_avc,NEU ,0,N340N12 ,,Bilan étiologique d’un AVC 
+clinique_endocardite,MCA ,0,N152N07 ,,Présentation clinique d’une endocardite infectieuse
+prevention_endocardite,MCA ,0,N152N18 ,,Prévention de l’endocardite infectieuse 
+presentation_infections_respiratoires,PNE ,0,N154N01 ,,Présentation clinique des différentes infections des voies aériennes inférieures 
+soins_psy,PSY ,0,N015N01 ,,Soins psychiatriques sans consentement 
+presentation_smd,HEM ,0,N316N03 ,,Présentation clinico-biologique des syndromes myélodysplasiques
+myelo_smd,HEM ,0,N316N04 ,,Anomalies du myélogramme lors des syndromes myélodysplasiques 
+ttt_myasthenie,NEU ,0,N098N09 ,,Principes thérapeutiques de la myasthénie
+bilan_myasthenie,NEU ,0,N098N02 ,,Examens complémentaires en cas de suspicion de myasthénie
+antalgiques_non_opioides,TPT ,0,N330N16 ; N135N06 ,,Antalgiques non opioïdes
+ttt_paludisme,,0,N170N10 ,,Options thérapeutiques devant un accès palustre
+comparabilite_groupes_interventionnel,LCA ; LCA12 ; SPU_LCA ,0,N323N22 ,,La comparabilité des groupes dans une étude interventionnelle
+inflation_risque_alpha,LCA ; SPU_LCA ,1,N020N12 ,,Inflation du risque alpha
+clinique_spa,RHU ,0,N197N05 ; N197N06 ,,Tableau clinique de la spondylarthrite ankylosante (En cours de rédaction ✍️)
+clinique_anorexie_mentale,PSY ,0,N071N05 ,pec_anorexie ,Sémiologie et diagnostic de l’anorexie mentale
+depistage_cancer_col,GYO ; GYM ; ONC ,0,N300N05 ,,Dépistage du cancer du col de l’utérus (En cours de rédaction ✍️)
+histologies_cancers_thyroidiens,ONC ; EDN ,0,N241N12 ,,Types histologiques des cancers thyroïdiens (En cours de rédaction ✍️)
+clinique_andropause,URO ,0,N124N17 ,,Tableau clinique de l’andropause (En cours de rédaction ✍️)
+clinique_maladie_coeliaque,HGE ,0,N285N14 ,,Tableau clinique de la maladie coeliaque(En cours de rédaction ✍️)
+contraception_risque_vasculaire,GYO ; EDN ; GYM ,0,N036N18 ,,Contraception chez une femme à risque vasculaire (En cours de rédaction ✍️)
+sterilisation_definitive,GYO ; GYM ; URO ,0,N036N20 ,,Stérilisation définitive (En cours de rédaction ✍️)
+types_études_objectif_recherche,SPU_LCA ,1,N020N06 ,,Types d’études en fonction de l’objectif de recherche (En cours de rédaction ✍️)
+essais_supériorite_non_infériorite_equivalence,SPU_LCA ,1,N323N24 ,,"Essais de supériorité, non infériorité et équivalence"
+bacteriemie_pec,MIT ,0,N157N10 ; N157N12 ,,Prise en charge d’une bactériémie  (En cours de rédaction ✍️)
+fongemie_pec,MIT ,0,N157N10 ; N157N12 ,, Prise en charge d’une fongémie (En cours de rédaction ✍️)
+alzheimer_diagnostic,NEU ; GER ,0,N108N08 ,, Diagnostic de la maladie d’Alzheimer
+erection_organique_psy,URO ,,N126N01 ,,Dysfonction érectile organique vs psychogène
+abreviations_csm,,,,,Abréviations validées par le CSM
+reeducation_parkinson,NEU ,,N106N09 ,,Rééducation dans la maladie de Parkinson
+critere_qualite_radio_thorax,PNE ,1,,chestxray_saunders ,Critères de qualité d’une radiographie thoracique de face
+examen_senologique,GYO ; GYM ,,N312N06 ,,Déroulement d’un examen clinique sénologique
+troubles_refraction_oculaire,OPH ,,,,Interprétation d’un examen d’une réfraction oculaire
+paralysie_faciale_centrale_peripherique,NEU ,,N101N02 ,,Diagnostic d’une paralysie faciale : centrale vs périphérique
+definition_insuffisance_renale_aigue,NEP ,,N348N01 ,,Définition d’une insuffisance rénale aiguë
+diagnostic_endometriose,GYO ; GYM ,,N041N04 ; N041N06 ,endometriose ,Diagnostic clinique d’une endométriose
+pec_endometriose,GYO ; GYM ,,N041N07 ,endometriose ,Prise en charge d’une endométriose
+algorithme_insuffisance_renale_aigue,NEP ,,N348N04 ,,Algorithme diagnostique d’une insuffisance rénale aiguë 
+autopsies,MLT_L ,,N013N17 ,,Autopsie médicale et autopsie médico-légale
+deuil_patho,PSY ,,N144N01 ; N144N02 ,,Deuil pathologique
+exploration_hemopathies,HEM ,,N315N07 ; N319N05 ; N316N04 ; N317N04 ; N320N01 ; N320N04 ,,Explorations complémentaires des hémopathies
+imagerie_hsd,NCU ; NEU ; GER ,,N108N14 ,,Imagerie de l’hématome sous-dural chronique
+etiologie_amenorrhee_secondaire,GYO ; EDN ,,N042N05 ; N042N06 ; N042N07 ; N042N08 ,insuffisance_ovarienne_precoce ,Étiologies d’une aménorrhée secondaire
+imagerie_diverticulite,CVD ; HGE ,,N287N08 ; N287N09 ,,Imagerie de la diverticulite aiguë
+lesions_elementaires_acne,DVE ,,N111N03 ,,Lésions élémentaires de l’acné
+diagnostic_rosacee,DVE ,,N111N11 ,,Diagnostic d’une rosacée
+phases_essais_cliniques,SPU_LCA ,1,N323N04 ,,Les phases du développement d’un médicament
+analyse_sensibilite,SPU_LCA ,0,N020N06 ,,Analyse de sensibilité
+p_value_intervalle_de_confiance,SPU_LCA ,1,N020N29 ,,Interpréter une p-value et un intervalle de confiance
+algorithme_arret,ARE ; MIR ,,N331N07 ,,Algorithme de prise en charge de l’arrêt cardio-respiratoire
+posologies_concours,ARE ; MIR ; EDN ; PED ; MIT ; IMM ,,N332N13 ; N331N11 ; N245N21 ; N151N14 ; N346N05 ,,Posologies au programme du concours
+etiologies_mat,NEP ,,N263N03 ,,Étiologies du syndrome de microangiopathie thrombotique 
+anca,MII ; IMM ,,N192N04 ,,Anticorps anticytoplasme des polynucléaires neutrophiles (ANCA)
+essai_clinique_negatif,SPU_LCA ,1,N324N04 ,,Interpréter un essai clinique négatif
+ventilation_mecanique,MIR ; PNE ,,N359N19 ,,Modalités d’assistance ventilatoire mécanique 
+effet_placebo_nocebo,SPU_LCA ,1,N323N05 ,,Effet placebo et effet nocebo
+douleur_rougeur_oculaire,OPH ,,N083N02 ; N083N06 ,,Douleur et rougeur oculaire
+diagnostic_purpura_rhumatoide,NEP ,,N215N08 ,,Tableau clinique du purpura rhumatoïde
+notation_qroc_edn,SPU_SPU ,,N247N03 ,,Notations QROC aux EDN
+raisonnement_strabisme,OPH ,,N052N06 ,,Raisonnement diagnostique face à un strabisme de l’enfant 
+etiologies_stenose_artere_renale,NEP ,,N263N06 ; N263N07 ,,Principales étiologies de sténose de l’artère rénale
+severite_BPCO,,,N209N06 ; N209N03 ,,Gradation de la sévérité d’une bronchopneumopathie chronique obstructive
+troubles_personnalité,PSY ,,N066N73 ,,Troubles de la personnalité 
+semio_dra,PNE ; MIR ,,N359N01 ; N359N02 ; N359N06 ,,Sémiologie de la détresse respiratoire aiguë 
+proteinurie_physio_patho,NEP ,,N264N03 ; N259N01 ; N259N02 ,,Protéinurie physiologique et pathologique
+hémolyse,HEM ,,N213N04 ,,Mécanismes des hémolyses 
+syndrome_anémique,HEM ,,N213N04 ; N213N05 ,,Manifestations cliniques d’un syndrome anémique
+enquete_meta_os,RHU ,,N307N07 ,,Enquête diagnostique devant une métastase osseuse
+clinique_pr,RHU ,,N196N03 ,,Manifestations cliniques de la polyarthrite rhumatoïde 
+examens_complementaires_pr,RHU ,,N196N04 ,,Explorations complémentaires d’une polyarthrite rhumatoïde
+anticorps_lupus,MII ; IMM ,,N194N10 ; N194N11 ,,Interprétation des anticorps antinucléaires
+semiologie_lupus,MII ; DVE ; RHU ; NEP ,,N194N04 ; N194N05 ,,Manifestations cliniques du lupus
+etiologies_nic,NEP ,,N262N04 ; N264N05 ,,Étiologies de néphropathies interstitielles chroniques
+bilan_IST,MIT ,,N162N16 ,,Dépistage et prévention des infections sexuellement transmissibles
+semio_foie_biliaire_cholestase_HTP_IHC,HGE ,,N279N04 ; N278N09 ,,Sémiologie chronique du foie et des voies biliaires 
+ttt_ist,MIT ,,N162N18 ; N162N20 ; N162N21 ; N162N28 ; N162N29 ; N162N34 ,,Prise en charge pharmacologique des principales infections sexuellement transmissibles 
+semio_patho_scrotales,URO ,,N050N01 ; N050N04 ; N050N08 ; N050N15 ,,Sémiologie des pathologies scrotales
+diag_hemophilies_constitutionnelles,HEM ,,N216N07 ,,Diagnostic des hémophilies constitutionnelles
+anesth_obstetricale,ARE ,,,,Modalités de l’analgésie et de l’anesthésie obstétricales
+ulcération_génitale,MIT ; DVE ,,N162N05 ,,Étiologies d’ulcération génitale
+pec_stade_mrc,NEP ,,N264N13 ,,Prise en charge en fonction du stade de la maladie rénale chronique 
+étiologies_thrombopénie,HEM ,,N214N09 ,,Étiologies de thrombopénie
+tests_sérologiques_syphilis,MIT ; DVE ,,N162N27 ,,Interprétation des tests sérologiques au cours de la syphilis 
+aggravation_mrc,NEP ,,N264N09 ,,Facteurs d’aggravation d’une maladie rénale chronique
+bilan_bio_splenomegalie,HEM ,,N275N05 ,,Examens biologiques de première intention devant une splénomégalie
+fdr_complication_iu,MIT ,,N161N01 ,,Facteurs de risque de complication des infections urinaires
+étiologies_civd,HEM ,,N216N09 ,,Étiologies de coagulation intravasculaire disséminée 
+diversification_alimentaire,,,N048N02 ; N048N04 ,,Modalités et objectifs de la diversification alimentaire chez le nourrisson 
+ttt_exacerbation_bpco,PNE ,0,N209N10 ; N209N11 ,,Prise en charge de l’exacerbation de BPCO
+étiologies_hypogammaglobulinémie,,,N189N06 ,,Étiologies d’hypogammaglobulinémie
+alimentation_lactee_exclusive,PED ,,N048N01 ; N048N03 ,,Alimentation lactée exclusive 
+ordonnance_sécurisée,TPT ,,N326N01 ,,Règles de rédaction d’une ordonnance sécurisée
+causes_sd_mononucleosique,MIT ; HEM ,,N217N04 ; N217N05 ,,Étiologies de syndrome mononucléosique 
+ttt_colonisationU_gravidique,MIT ; GYO ,,N161N15 ,,Traitement de la colonisation urinaire gravidique
+ttt_cystite_gravidique,MIT ; GYO ,,N161N15 ,,Traitement de la cystite aiguë gravidique 
+ttt_pyelo_gravidique,MIT ; GYO ,,N161N15 ,,Traitement de la pyélonéphrite aiguë gravidique 
+ec_pyelo_gravidique,MIT ; GYO ,,N161N09 ,,Examens complémentaires de la pyélonéphrite aiguë gravidique
+ttt_iu_masculine,MIT ,,N161N14 ,,Traitement de l’infection urinaire masculine
+anomalie_fonctionnelle_anatomique_iu_masculine,MIT ,,N161N14 ,,Recherche d’une anomalie fonctionnelle ou anatomique au cours d’une infection urinaire masculine
+reevaluation_iu_masculine,MIT ,,N161N14 ,,Réévaluation d’une infection urinaire masculine
+atbprophylaxie_geste_risque_iu_masculine,MIT ,,N161N14 ,,Antibioprophylaxie au cours des situations à risque d’infection urinaire masculine
+ttt_pyelo_grave,MIT ,,N161N12 ,,Traitement de la pyélonéphrite aiguë grave
+complication_iu_masculine,MIT ,,N161N13 ,,Complications d’une infection urinaire masculine
+ttt_pyelo_simple_risque_complications,MIT ,,N161N12 ; N161N01 ,,Traitement de la pyélonéphrite aiguë à risque de complications
+hygiene_sommeil,PSY ; PNE ; NEU ,,N110N03 ,,Conseils d’hygiène du sommeil
+rhd_iu,MIT ,,N161N10 ,,Règles hygiéno-diététiques de l’infection urinaire 
+ecbu_cystite_simple,MIT ,,N161N10 ,,Indications de l’examen cytobactériologique des urines au cours des cystites aiguës simples
+demarche_diagnostique_pyelo,MIT ,,N161N09 ; N161N03 ,,Démarche diagnostique de la pyélonéphrite aiguë
+demarche_diagnostique_cystite,MIT ,,N161N08 ; N161N03 ,,Démarche diagnostique de la cystite aiguë 
+clinique_iu_enfant,PED ,,N161N17 ,,Tableau clinique de l’infection urinaire chez l’enfant 
+examens_complementaires_iu_enfant,PED ,,N161N18 ,,Indications des examens complémentaires devant une infection urinaire chez l’enfant 
+ttt_iu_enfant,PED ,,N161N19 ,,Traitement de l’infection urinaire de l’enfant 
+suivi_pyelo_enfant,PED ,,N161N19 ,,Suivi d’une pyélonéphrite aiguë chez l’enfant
+etiologie_iu_enfant,PED ,,N161N19 ,,Enquête étiologique au cours d’une infection urinaire chez l’enfant 
+situations_patho_naissance,PED ; GYO ,,N032N07 ,,Situations à risque et situations pathologiques à la naissance
+facteurs_favorisants_cystites_recidivantes,MIT ,,N161N20 ,diag_ttt_evolution_cystite ,Facteurs favorisant les cystites récidivantes 
+etiologies_spondylarthrite,RHU ; DVE ,,N197N08 ,diag_spondyloarthrites ,Étiologies de spondylarthropathies
+diag_choc,MIR ; ARE ,,N332N01 ; N332N04 ,,Diagnostiquer un état de choc
+pec_cystite_recidivante,MIT ,,N161N21 ,pec_cystite_recidivante ,Prise en charge d’une cystite récidivante
+etiologie_faux_neg_bu_enfant,PED ; MIT ,,N161N18 ,,Étiologies de faux négatifs au cours d’une bandelette urinaire chez l’enfant
+ecbu_iu_enfant,PED ; MIT ,,N161N18 ,,Examen cytobactériologique des urines au cours de l’infection urinaire chez l’enfant
+examens_complementaires_choc,ARE ; MIR ,,N332N06 ,,Examens complémentaires à réaliser devant un état de choc 
+pec_initiale_choc,MIR ; ARE ,,N332N08 ,,Prise en charge initiale d’un état de choc
+dra_nouveau_né,PED ,,N032N07 ,,Détresse respiratoire du nouveau-né
+pec_choc_hemorragique,MIR ; ARE ,,N332N09 ,,Prise en charge thérapeutique d’un état de choc hémorragique
+pec_choc_septique,ARE ; MIR ,,N332N10 ,,Prise en charge thérapeutique d’un choc septique
+pec_choc_cardiogenique,ARE ; MIR ,,N332N11 ,,Prise en charge thérapeutique d’un état de choc cardiogénique
+physiopath_hypoxemie,MIR ; ARE ; PNE ,,N359N03 ,,Mécanismes physiopathologiques de l’hypoxémie 
+anomalies_pompe_ventilatoire,PNE ,,N359N04 ,,Anomalies de la pompe ventilatoire 
+pec_choc_obstructif,ARE ; MIR ,,N332N12 ,,Prise en charge d’un état de choc obstructif 
+examens_complementaires_dra,PNE ; ARE ; MIR ,,N359N09 ,,Examens de première intention devant une détresse respiratoire aiguë 
+drepanocytose,GEN ; HEM ; PED ,,N022N03 ,,Drépanocytose
+interpretation_eps,,,,,Interprétation d’une électrophorèse des protéines sériques
+anesthesie_generale,,,,,Principes et complications de l’anesthésie générale
+oxygenotherapie,PNE ; MIR ; ARE ,,N359N20 ,,Principes de l’oxygénothérapie 
+gazometrie,ARE ; MIR ; NEP ,,N267N01 ,,La gazométrie
+diag_acidose_metabolique,NEP ,,N267N05 ,,Diagnostic d’une acidose métabolique 
+acidose_tubulaire_renale,NEP ,,N267N05 ,,Les acidoses tubulaires rénales
+diagnostic_pericardite,MCA ,,N235N01 ; N235N02 ; N235N04 ; N235N06 ,pericardites_myocardites ,Diagnostic d’une péricardite aiguë 
+hémochromatose,,,N022N03 ; N219N06 ; N219N16 ,,Hémochromatose génétique
+repères_consommation_alcool,,,N076N04 ,,Repères de consommation d’alcool 
+etiologie_siadh,NEP ,,N267N26 ,,Principales étiologies de SIADH 
+ttt_hyponatremie,NEP ,,N267N27 ,,Principes du traitement de l’hyponatrémie 
+myelinolyse_centropontine,NEP ,,N267N28 ,,Myélinolyse centro-pontine
+epargne_transufusionnelle,,,N329N08 ,,Stratégies d’épargne transfusionnelle
+hyperviscosite,HEM ,,N317N03 ,,Syndrome d’hyperviscosité 
+leucostase,,,N315N09 ,,Syndrome de leucostase
+étiologies_purpura,HEM ; MII ; DVE ,,N215N08 ,,Étiologies de purpura 
+clostridium_difficile,MIT ; HGE ,,N286N11 ; N286N06 ,,Infection digestive par Clostridioides Difficile 
+occlusion_carcinose,DSP ,,N139N04 ,,Prise en charge médicale d’une occlusion sur carcinose péritonéale
+mucoviscidose_atteintes,,,N045N15 ,,Atteintes de la mucoviscidose 
+bilan_retard_staturo_ponderal,PED ,,N053N02 ,,Bilan paraclinique devant un retard de croissance staturo-pondérale
+semio_dermatite_contact,DVE ,,N187N16 ,,Dermatites de contact allergique et irritative
+etiologies_demences,GER ; NEU ,,N132N06 ,,Principales étiologies des troubles neurocognitifs du sujet âgé
+diag_etiologique_goitre,EDN ,,N241N04 ,,Diagnostic étiologique devant un goitre 
+ttt_pr,RHU ,,N196N08 ,,Prise en charge de la polyarthrite rhumatoïde
+jeune_preoperatoire,ARE ,,N322N10 ,,Jeûne préopératoire
+gestion_ttt_perioperatoire,ARE ,,N322N11 ,,Gestion des traitements avant une intervention
+diabete_insipide,NEP ,,N267N32 ,,Diabète insipide
+diagnostic_mucoviscidose,PED ,,N045N14 ,,Diagnostic mucoviscidose
+hypertonie_spastique_plastique,NEU ,,N106N01 ; N131N06 ; N131N04 ,,Hypertonie spastique et hypertonie plastique
+syndrome_pyramidal ,NEU ,,N092N01 ,,Sémiologie du syndrome pyramidal 
+malignité_masse_pulmonaire,PNE ,,N207N07 ,,Critères de malignité d’une masse pulmonaire
+drapeaux_rouges_rachialgies,RHU ; MPR ,,N094N07 ,,Drapeaux rouges d’une rachialgie
+pirads,,,,,Le score PI-RADS
+biopsies_prostatiques,URO ; ONC ,,N310N06 ,,Les biopsies prostatiques 
+indication_ttt_k_prostate_risque ,URO ; ONC ,,N310N07 ,,Indications thérapeutiques dans le cancer prostatique selon le risque 
+massage_cardiaque_externe,MCA ; ARE ; MIR ; PED ,,N331N07 ,,Massage cardiaque externe 
+defibrillateur_acr,MCA ; ARE ; MIR ,,N331N08 ,,Les types de défibrillateurs 

@@ -1,0 +1,35 @@
+04/02/2026
+
+Leucocytes 8.31 G/L
+PNN 5.92 G/L
+Lymphocytes 1.07 G/L
+PEo 0.25 G/L
+
+Hb 12.2 g/dL
+VGM 88.5 fL
+Hématocrite 36.2%
+
+Plaquettes 187 G/L
+
+Na 136 mmol/L
+K 4.3 mmol/L
+Bicarbonate 26.1 mmol/L
+Urée 44.1 mmol/L
+Créatinine 213 µmol/L
+DFG 26.1 mL/min/1.73m² (CKD-EPI)
+
+ASAT 26 UI/L
+ALAT 19 UI/L
+GGT 19 UI/L
+PAL 75 UI/L
+Bilirubine 11 µmol/L
+
+Protéines 72 g/L
+
+CRP 23 mg/L
+
+Examens urinaires
+Na 26 mmol/L
+K 31.6 mmol/L
+Cl 28 mmol/L
+Protéinurie/Créatininurie 0.25 g/mol
