@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Ascelpia Tools - Suite d'outils</title>
+    <title>Asclepia Tools - Suite d'outils</title>
     <style>
       * {
         margin: 0;
@@ -12,7 +12,9 @@
       }
 
       body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-family:
+          -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+          'Helvetica Neue', Arial, sans-serif;
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         min-height: 100vh;
         padding: 0;
@@ -202,50 +204,63 @@
       <div class="navbar-container">
         <a href="index.html" class="navbar-brand">
           <span class="navbar-icon">🧪</span>
-          <span class="brand-text">Ascelpia Tools</span>
+          <span class="brand-text">Asclepia Tools</span>
         </a>
         <ul class="navbar-menu">
           <li><a href="index.html" class="navbar-link active">Accueil</a></li>
-          <li><a href="blood-test-formatter/web/index.html" class="navbar-link">Better Labs Results</a></li>
-          <li><a href="csv-cleaner/web/index.html" class="navbar-link">CSV Cleaner</a></li>
+          <li>
+            <a href="blood-test-formatter/web/index.html" class="navbar-link"
+              >Better Labs Results</a
+            >
+          </li>
+          <li>
+            <a href="csv-cleaner/web/index.html" class="navbar-link"
+              >CSV Cleaner</a
+            >
+          </li>
         </ul>
       </div>
     </nav>
 
     <div class="page-wrapper">
       <div class="container">
-      <header>
-        <div class="brand">
-          <span class="brand-icon">🧪</span>
-          <span>Ascelpia Tools</span>
+        <header>
+          <div class="brand">
+            <span class="brand-icon">🧪</span>
+            <span>Asclepia Tools</span>
+          </div>
+          <p class="subtitle">Suite d'outils pour optimiser votre workflow</p>
+        </header>
+
+        <div class="tools-grid">
+          <a href="blood-test-formatter/web/index.html" class="tool-card">
+            <div class="tool-icon">🩸</div>
+            <h2 class="tool-title">Better Labs Results</h2>
+            <p class="tool-description">
+              Transformez vos résultats de prise de sang bruts en texte formaté
+              et lisible. Supprime les colonnes inutiles et organise les
+              données.
+            </p>
+          </a>
+
+          <a href="csv-cleaner/web/index.html" class="tool-card">
+            <div class="tool-icon">📊</div>
+            <h2 class="tool-title">CSV Cleaner</h2>
+            <p class="tool-description">
+              Nettoyage automatique de fichiers CSV. Détection automatique du
+              type (Sources, Tiroirs, Questions) et application des règles de
+              transformation.
+            </p>
+          </a>
         </div>
-        <p class="subtitle">Suite d'outils pour optimiser votre workflow</p>
-      </header>
 
-      <div class="tools-grid">
-        <a href="blood-test-formatter/web/index.html" class="tool-card">
-          <div class="tool-icon">🩸</div>
-          <h2 class="tool-title">Better Labs Results</h2>
-          <p class="tool-description">
-            Transformez vos résultats de prise de sang bruts en texte formaté et lisible.
-            Supprime les colonnes inutiles et organise les données.
+        <footer>
+          <p>
+            Asclepia Tools © 2026 - Suite d'outils développée pour faciliter le
+            traitement de données
           </p>
-        </a>
-
-        <a href="csv-cleaner/web/index.html" class="tool-card">
-          <div class="tool-icon">📊</div>
-          <h2 class="tool-title">CSV Cleaner</h2>
-          <p class="tool-description">
-            Nettoyage automatique de fichiers CSV. Détection automatique du type (Sources, Tiroirs, Questions)
-            et application des règles de transformation.
-          </p>
-        </a>
+        </footer>
       </div>
-
-      <footer>
-        <p>Ascelpia Tools © 2026 - Suite d'outils développée pour faciliter le traitement de données</p>
-      </footer>
-    </div>
     </div>
   </body>
 </html>

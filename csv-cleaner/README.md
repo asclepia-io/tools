@@ -16,12 +16,15 @@ Outil de nettoyage automatique de fichiers CSV pour les types Sources, Tiroirs e
 ## Types de fichiers supportés
 
 ### Sources
+
 Colonnes conservées : `source, URL, books, knowledges, societies, title, year`
 
 ### Tiroirs
+
 Colonnes conservées : `lesson, books, is_free, knowledges, sources, title`
 
 ### Questions
+
 Colonnes conservées : `question_id, books, categories, coefficient, collection, count_qrp, is_free, knowledge, lessons, similar, sources, specialty, type`
 
 ## Utilisation
@@ -35,11 +38,13 @@ Colonnes conservées : `question_id, books, categories, coefficient, collection,
 ## Règles de transformation
 
 ### Pour toutes les colonnes (sauf URL) :
+
 - Les URLs entre parenthèses sont supprimées : `HGE (https://...)` → `HGE`
 - Les virgules sont remplacées par des points-virgules : `a, b, c` → `a; b; c`
 - Les valeurs numériques sont nettoyées : `1.0` → `1`, `2.0` → `2`, `0.0` → `0`
 
 ### Pour la colonne URL :
+
 - Les URLs sont conservées telles quelles
 - Seules les virgules et valeurs numériques sont nettoyées
 
@@ -64,7 +69,8 @@ csv-cleaner/
 
 ## Navigation
 
-L'outil fait partie de la suite Ascelpia Tools et dispose d'une navbar pour naviguer entre :
+L'outil fait partie de la suite Asclepia Tools et dispose d'une navbar pour naviguer entre :
+
 - **Better Labs Results** - Formattage des résultats de prise de sang
 - **CSV Cleaner** - Nettoyage de fichiers CSV
 
