@@ -35,8 +35,8 @@ const BloodTestFormatter = (function() {
       return `${displayValue}%`;
     }
 
-    // Pas d'unité pour le pH
-    if (result.name === 'pH') {
+    // Pas d'unité pour le pH ou si unité vide
+    if (result.name === 'pH' || !result.unit) {
       return displayValue;
     }
 

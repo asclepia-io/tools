@@ -25,7 +25,9 @@ const BloodTestRules = (function() {
     'g/mmol': 'g/mol',
     'mL/min/1.73m²': 'mL/min/1.73m²',
     'mm Hg': 'mmHg',
-    'L/min': 'L/min'
+    'L/min': 'L/min',
+    'µg/L': 'µg/L',
+    'nmol/L': 'nmol/L'
   };
 
   /**
@@ -86,7 +88,15 @@ const BloodTestRules = (function() {
     'SAA': 'SAA',
     'Protéine sérique amyloide A': 'SAA',
     'Protéinurie/Créatininurie': 'Protéinurie/Créatininurie',
-    'Protéines/Créatinine': 'Protéinurie/Créatininurie'
+    'Protéines/Créatinine': 'Protéinurie/Créatininurie',
+    'Taux de prothrombine': 'TP',
+    'Ratio Patient/Témoin': 'TCA',
+    'Cholestérol LDL (Friedewald)': 'LDL-c',
+    'Triglycérides': 'Triglycérides',
+    'Ferritine': 'Ferritine',
+    'Coefficient de saturation': 'CST',
+    'Folates': 'Vitamine B9',
+    'Vitamine B12': 'Vitamine B12'
   };
 
   /**
@@ -117,6 +127,13 @@ const BloodTestRules = (function() {
         // Plaquettes
         analyses: [
           { name: 'Plaquettes', unit: 'x10*9/L', required: false }
+        ]
+      },
+      {
+        // Hémostase
+        analyses: [
+          { name: 'Taux de prothrombine', unit: '%', required: false },
+          { name: 'Ratio Patient/Témoin', unit: '', required: false }
         ]
       },
       {
@@ -196,6 +213,27 @@ const BloodTestRules = (function() {
         analyses: [
           { name: 'HbA1c', unit: '%', required: false },
           { name: 'Hémoglobine A1c', unit: '%', required: false }
+        ]
+      },
+      {
+        // Bilan lipidique
+        analyses: [
+          { name: 'Cholestérol LDL (Friedewald)', unit: 'g/L', required: false },
+          { name: 'Triglycérides', unit: 'g/L', required: false }
+        ]
+      },
+      {
+        // Bilan martial
+        analyses: [
+          { name: 'Ferritine', unit: 'µg/L', required: false },
+          { name: 'Coefficient de saturation', unit: '%', required: false }
+        ]
+      },
+      {
+        // Vitamines B9/B12
+        analyses: [
+          { name: 'Folates', unit: 'nmol/L', required: false },
+          { name: 'Vitamine B12', unit: 'ng/L', required: false }
         ]
       },
       {
